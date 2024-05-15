@@ -60,7 +60,7 @@ jobs:
           plugin_leetcode_limit_recent: 2
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_sections: solved
-          plugin_leetcode_user: .user.login
+          plugin_leetcode_user: PowerSchill
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
