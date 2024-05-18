@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3284 Commits
+                            3286 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -634,6 +634,43 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#d35bde3</div>
+                                        <div class="message">docs: backups vault content - 2024-05-17 20:41
+
+Total files changed: 13
+
+Affected files:
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+20-29 Finances/23 Housing/23.11 Icon Midtown/23.11 22 14th St NW.md
+20-29 Finances/23 Housing/23.11 Icon Midtown/23.11 Icon Midtown.md
+20-29 Finances/23 Housing/23.12 AMLI Ponce Park/23.12 641 North Ave NE.md
+20-29 Finances/23 Housing/23.12 AMLI Ponce Park/23.12 AMLI Ponce Park.md
+20-29 Finances/23 Housing/23.13 J5/23.13 J5.md
+20-29 Finances/23 Housing/23.13 J5/775 Juniper St NE.md
+20-29 Finances/23 Housing/23.14 Johns Creek/11315 Abbotts Station Drive.md
+20-29 Finances/23 Housing/23.14 Johns Creek/23.14 Johns Creek.md
+20-29 Finances/26 Employment/26.20 Corus360/26.20 Corus360.md
+30-39 Entertainment/37 Events/37 Events.md
+30-39 Entertainment/37 Events/37.11 Mountain Vacation (2020-10)/37.11 Mountain Vacation (2020-10).md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#d71f8dc</div>
                                         <div class="message">docs: backups vault content - 2024-05-17 20:11
 
@@ -756,51 +793,6 @@ Affected files:
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e26f14b</div>
-                                        <div class="message">docs: backups vault content - 2024-05-16 21:13
-
-Total files changed: 21
-
-Affected files:
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-00-09 System/02 Journal/02.01 Daily/2024/05/2024-05-16.md
-30-39 Entertainment/36 Books/36.01 Inbox/Building a Second Brain - Tiago Forte.md
-30-39 Entertainment/36 Books/36.01 Inbox/Dune.md
-30-39 Entertainment/36 Books/36.01 Inbox/The Definitive Guide to PCI DSS Version 4 - Arthur B Cooper Jr Jeff Hall David Mundhenk Ben Rothke.md
-30-39 Entertainment/36 Books/36.01 Inbox/The Evolutionary Void.md
-30-39 Entertainment/36 Books/36.01 Inbox/The Ferryman.md
-30-39 Entertainment/36 Books/36.01 Inbox/The Martian.md
-30-39 Entertainment/36 Books/36.01 Inbox/The Order of Time.md
-30-39 Entertainment/36 Books/36.01 Inbox/Woken Furies.md
-30-39 Entertainment/36 Books/36.02 Fiction/Dune - Frank Herbert.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Collapsing Empire - John Scalzi.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Evolutionary Void - Peter F Hamilton.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Ferryman - Justin Cronin.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Martian - Andy Weir.md
-30-39 Entertainment/36 Books/36.02 Fiction/Woken Furies - Richard K Morgan.md
-30-39 Entertainment/36 Books/36.03 Business &amp; Economics/Building a Second Brain - Tiago Forte.md
-30-39 Entertainment/36 Books/36.07 Science/36.07 Science.md
-30-39 Entertainment/36 Books/36.07 Science/The Order of Time - Carlo Rovelli.md
-Library.canvas</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -856,7 +848,7 @@ Library.canvas</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 May 2024, 20:24:28 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 May 2024, 21:30:37 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
