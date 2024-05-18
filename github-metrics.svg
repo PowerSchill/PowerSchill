@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3290 Commits
+                            3292 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -634,6 +634,32 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#621fc92</div>
+                                        <div class="message">docs: backups vault content - 2024-05-17 23:35
+
+Total files changed: 2
+
+Affected files:
+.obsidian/workspace.json
+30-39 Entertainment/32 Television/32.02 Trakt/Doctor Who/01/Doctor Who  01x03 "Boom".md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#a0424da</div>
                                         <div class="message">docs: backups vault content - 2024-05-17 22:12
 
@@ -745,56 +771,6 @@ Affected files:
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a298685</div>
-                                        <div class="message">docs: backups vault content - 2024-05-17 19:41
-
-Total files changed: 26
-
-Affected files:
-.obsidian/canvas.json
-.obsidian/community-plugins.json
-.obsidian/graph.json
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-00-09 System/02 Journal/02.01 Daily/2024/05/2024-05-17.md
-30-39 Entertainment/36 Books/36.01 Inbox/Chapterhouse Dune.md
-30-39 Entertainment/36 Books/36.01 Inbox/Children of Dune.md
-30-39 Entertainment/36 Books/36.01 Inbox/Daemon.md
-30-39 Entertainment/36 Books/36.01 Inbox/Seveneves.md
-30-39 Entertainment/36 Books/36.01 Inbox/The Fabulous Riverboat.md
-30-39 Entertainment/36 Books/36.01 Inbox/The Ferryman.md
-30-39 Entertainment/36 Books/36.01 Inbox/The Idea Factory.md
-30-39 Entertainment/36 Books/36.01 Inbox/The Kaiju Preservation Society.md
-30-39 Entertainment/36 Books/36.01 Inbox/The Last Emperox - John Scalzi.md
-30-39 Entertainment/36 Books/36.01 Inbox/The Lock In Series.md
-30-39 Entertainment/36 Books/36.02 Fiction/Chapterhouse Dune - Frank Herbert.md
-30-39 Entertainment/36 Books/36.02 Fiction/Children of Dune - Frank Herbert.md
-30-39 Entertainment/36 Books/36.02 Fiction/Daemon - Daniel Suarez.md
-30-39 Entertainment/36 Books/36.02 Fiction/Lock In - John Scalzi.md
-30-39 Entertainment/36 Books/36.02 Fiction/Seveneves - Neal Stephenson.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Fabulous Riverboat - Philip José Farmer.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Kaiju Preservation Society - John Scalzi.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Last Emperox - John Scalzi.md
-30-39 Entertainment/36 Books/36.03 Business &amp; Economics/The Idea Factory - Jon Gertner.md
-30-39 Entertainment/36 Books/36.04 Computers/Clean Code - Robert C Martin.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -850,7 +826,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 May 2024, 23:07:10 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 May 2024, 00:07:22 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
