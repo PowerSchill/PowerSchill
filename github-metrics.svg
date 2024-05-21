@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3352 Commits
+                            3358 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -634,6 +634,187 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#e3bf065</div>
+                                        <div class="message">docs: backups vault content - 2024-05-20 21:24
+
+Total files changed: 32
+
+Affected files:
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+00-09 System/00 Index/00.11 Book Index/00.11 Books Read by Date.md
+00-09 System/02 Journal/02.01 Daily/2024/05/2024-05-20.md
+30-39 Entertainment/36 Books/36.01 Inbox/Code Complete - Steve McConnell.md
+30-39 Entertainment/36 Books/36.01 Inbox/The DevOps Handbook - Gene Kim Jez Humble Patrick Debois John Willis.md
+30-39 Entertainment/36 Books/36.02 Fiction/Altered Carbon - Richard K Morgan.md
+30-39 Entertainment/36 Books/36.02 Fiction/Anathem - Neal Stephenson.md
+30-39 Entertainment/36 Books/36.02 Fiction/Delta-v - Daniel Suarez.md
+30-39 Entertainment/36 Books/36.02 Fiction/Heaven's River - Dennis E Taylor.md
+30-39 Entertainment/36 Books/36.02 Fiction/Hyperion - Dan Simmons.md
+30-39 Entertainment/36 Books/36.02 Fiction/Last Year - Robert Charles Wilson.md
+30-39 Entertainment/36 Books/36.02 Fiction/Project Hail Mary - Andy Weir.md
+30-39 Entertainment/36 Books/36.02 Fiction/Redshirts - John Scalzi.md
+30-39 Entertainment/36 Books/36.02 Fiction/Spin - Robert Charles Wilson.md
+30-39 Entertainment/36 Books/36.02 Fiction/The Consuming Fire - John Scalzi.md
+30-39 Entertainment/36 Books/36.02 Fiction/The Fall of Hyperion - Dan Simmons.md
+30-39 Entertainment/36 Books/36.02 Fiction/The Last Emperox - John Scalzi 1.md
+30-39 Entertainment/36 Books/36.02 Fiction/The Martian - Andy Weir 1.md
+30-39 Entertainment/36 Books/36.03 Business &amp; Economics/The Phoenix Project - Gene Kim Kevin Behr George Spafford.md
+30-39 Entertainment/36 Books/36.04 Computers/Fancy Bear Goes Phishing - Scott J Shapiro.md
+30-39 Entertainment/36 Books/36.04 Computers/User Stories Applied - Mike Cohn.md
+30-39 Entertainment/36 Books/_TO Be Converted/Hyperion.md
+30-39 Entertainment/36 Books/_TO Be Converted/Last Year.md
+30-39 Entertainment/36 Books/_TO Be Converted/Project Hail Mary - Andy Weir.md
+30-39 Entertainment/36 Books/_TO Be Converted/Redshirts.md
+30-39 Entertainment/36 Books/_TO Be Converted/Spin.md
+30-39 Entertainment/36 Books/_TO Be Converted/The Collapsing Empire - John Scalzi.md
+30-39 Entertainment/36 Books/_TO Be Converted/The Fall of Hyperion.md
+30-39 Entertainment/36 Books/_TO Be Converted/The Martian.md
+30-39 Entertainment/36 Books/_TO Be Converted/The Software Engineer's Guidebook - Gergely Orosz.md
+Library.canvas</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a540d67</div>
+                                        <div class="message">docs: backups vault content - 2024-05-20 20:54
+
+Total files changed: 27
+
+Affected files:
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+00-09 System/02 Journal/02.01 Daily/2024/02/2024-02-09.md
+30-39 Entertainment/36 Books/36.02 Fiction/All These Worlds - Dennis E Taylor.md
+30-39 Entertainment/36 Books/36.02 Fiction/Artemis - Andy Weir.md
+30-39 Entertainment/36 Books/36.02 Fiction/Broken Angels - Richard K Morgan.md
+30-39 Entertainment/36 Books/36.02 Fiction/Critical Mass - Daniel Suarez.md
+30-39 Entertainment/36 Books/36.02 Fiction/Delta-v - Daniel Suarez.md
+30-39 Entertainment/36 Books/36.02 Fiction/Fluency - Jennifer Foehner Wells.md
+30-39 Entertainment/36 Books/36.02 Fiction/For We Are Many - Dennis E Taylor.md
+30-39 Entertainment/36 Books/36.02 Fiction/Head On - John Scalzi.md
+30-39 Entertainment/36 Books/36.02 Fiction/Heaven's River - Dennis E Taylor.md
+30-39 Entertainment/36 Books/36.02 Fiction/Remanence - Jennifer Foehner Wells.md
+30-39 Entertainment/36 Books/36.02 Fiction/Rise of Endymion - Dan Simmons.md
+30-39 Entertainment/36 Books/36.02 Fiction/The Druid Gene - Jennifer Foehner Wells.md
+30-39 Entertainment/36 Books/36.02 Fiction/To Your Scattered Bodies Go - Philip Jose Farmer.md
+30-39 Entertainment/36 Books/36.02 Fiction/We Are Legion (We Are Bob) - Dennis E Taylor.md
+30-39 Entertainment/36 Books/36.02 Fiction/Woken Furies - Richard K Morgan.md
+30-39 Entertainment/36 Books/36.06 Change (Psychology)/Tiny Habits - B J Fogg 1.md
+30-39 Entertainment/36 Books/36.07 Science/Our Mathematical Universe - Max Tegmark.md
+30-39 Entertainment/36 Books/36.07 Science/The Order of Time - Carlo Rovelli.md
+30-39 Entertainment/36 Books/36.11 True Crime/36.11 True Crime.md
+30-39 Entertainment/36 Books/36.11 True Crime/Tracers in the Dark - Andy Greenberg.md
+30-39 Entertainment/36 Books/_TO Be Converted/Head On.md
+30-39 Entertainment/36 Books/_TO Be Converted/Heaven's River - Dennis E Taylor.md
+30-39 Entertainment/36 Books/_TO Be Converted/Starter Villain - John Scalzi.md
+30-39 Entertainment/36 Books/_TO Be Converted/The Order of Time.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a698b28</div>
+                                        <div class="message">docs: backups vault content - 2024-05-20 20:24
+
+Total files changed: 50
+
+Affected files:
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+00-09 System/02 Journal/02.01 Daily/2024/05/2024-05-20.md
+30-39 Entertainment/36 Books/36.01 Inbox/Tiny Habits - B J Fogg.md
+30-39 Entertainment/36 Books/36.01 Inbox/To Your Scattered Bodies Go - Philip Jose Farmer.md
+30-39 Entertainment/36 Books/36.01 Inbox/Tracers in the Dark - Andy Greenberg.md
+30-39 Entertainment/36 Books/36.02 Fiction/Fallen Dragon - Peter F Hamilton 1.md
+30-39 Entertainment/36 Books/36.02 Fiction/Fear the Future - Stephen Moss.md
+30-39 Entertainment/36 Books/36.02 Fiction/Fear the Sky - Stephen Moss.md
+30-39 Entertainment/36 Books/36.02 Fiction/Fear the Survivors - Stephen Moss.md
+30-39 Entertainment/36 Books/36.02 Fiction/Fluency - Jennifer Foehner Wells.md
+30-39 Entertainment/36 Books/36.02 Fiction/For We Are Many - Dennis E Taylor.md
+30-39 Entertainment/36 Books/36.02 Fiction/Freedom (TM) - Daniel Suarez.md
+30-39 Entertainment/36 Books/36.02 Fiction/The Dark Design - Philip José Farmer.md
+30-39 Entertainment/36 Books/36.02 Fiction/The Trials - Linda Nagata.md
+30-39 Entertainment/36 Books/36.02 Fiction/Trojan Horse - Mark Russinovich.md
+30-39 Entertainment/36 Books/36.02 Fiction/Vortex - Robert Charles Wilson.md
+30-39 Entertainment/36 Books/36.02 Fiction/We Are Legion (We Are Bob) - Dennis E Taylor.md
+30-39 Entertainment/36 Books/36.02 Fiction/World War Z - Max Brooks 1.md
+30-39 Entertainment/36 Books/36.02 Fiction/Zero Day - Mark Russinovich 1.md
+30-39 Entertainment/36 Books/36.03 Business &amp; Economics/Getting Things Done - David Allen.md
+30-39 Entertainment/36 Books/36.03 Business &amp; Economics/Think Again - Adam Grant 1.md
+30-39 Entertainment/36 Books/36.07 Science/Our Mathematical Universe - Max Tegmark.md
+30-39 Entertainment/36 Books/36.08 History/The 1619 Project - Nikole Hannah-Jones The New York Times Magazine.md
+30-39 Entertainment/36 Books/36.09 Cooking/36.09 Cooking.md
+30-39 Entertainment/36 Books/36.09 Cooking/Mastering Pizza - Marc Vetri David Joachim.md
+30-39 Entertainment/36 Books/36.10 Psychology/36.10 Psychology.md
+30-39 Entertainment/36 Books/36.10 Psychology/Thinking Fast and Slow - Daniel Kahneman.md
+30-39 Entertainment/36 Books/_TO Be Converted/Fear the Future.md
+30-39 Entertainment/36 Books/_TO Be Converted/Fear the Sky.md
+30-39 Entertainment/36 Books/_TO Be Converted/Fear the Survivors.md
+30-39 Entertainment/36 Books/_TO Be Converted/Fluency - Jennifer Foehner Wells.md
+30-39 Entertainment/36 Books/_TO Be Converted/For We Are Many - Dennis E Taylor.md
+30-39 Entertainment/36 Books/_TO Be Converted/Freedom (TM).md
+30-39 Entertainment/36 Books/_TO Be Converted/Getting Things Done.md
+30-39 Entertainment/36 Books/_TO Be Converted/Mastering Pizza - Marc Vetri David Joachim.md
+30-39 Entertainment/36 Books/_TO Be Converted/Our Mathematical Universe.md
+30-39 Entertainment/36 Books/_TO Be Converted/The 1619 Project - Nikole Hannah-Jones The New York Times Magazine.md
+30-39 Entertainment/36 Books/_TO Be Converted/The Dark Design.md
+30-39 Entertainment/36 Books/_TO Be Converted/The Trials.md
+30-39 Entertainment/36 Books/_TO Be Converted/Think Again - Adam Grant.md
+30-39 Entertainment/36 Books/_TO Be Converted/Thinking Fast and Slow - Daniel Kahneman.md
+30-39 Entertainment/36 Books/_TO Be Converted/Tiny Habits - B J Fogg.md
+30-39 Entertainment/36 Books/_TO Be Converted/To Your Scattered Bodies Go.md
+30-39 Entertainment/36 Books/_TO Be Converted/Tracers in the Dark - Andy Greenberg.md
+30-39 Entertainment/36 Books/_TO Be Converted/Trojan Horse.md
+30-39 Entertainment/36 Books/_TO Be Converted/Vortex.md
+30-39 Entertainment/36 Books/_TO Be Converted/Woken Furies.md
+30-39 Entertainment/36 Books/_TO Be Converted/World War Z.md
+30-39 Entertainment/36 Books/_TO Be Converted/Zero Day.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#fa07a31</div>
                                         <div class="message">docs: backups vault content - 2024-05-20 18:49
 
@@ -709,84 +890,6 @@ Affected files:
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#361da2c</div>
-                                        <div class="message">docs: backups vault content - 2024-05-20 17:50
-
-Total files changed: 4
-
-Affected files:
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-00-09 System/00 Index/00.11 Book Index/00.11 Books Read by Date.md
-10-19 Atomic/00 Inbox/2013-02-19.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#48a6991</div>
-                                        <div class="message">docs: backups vault content - 2024-05-20 17:20
-
-Total files changed: 1
-
-Affected files:
-00-09 System/00 Index/00.11 Book Index/00.11 Books Read by Date.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#69282b3</div>
-                                        <div class="message">docs: backups vault content - 2024-05-20 15:51
-
-Total files changed: 1
-
-Affected files:
-.obsidian/plugins/recent-files-obsidian/data.json</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -842,7 +945,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 May 2024, 20:24:50 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 May 2024, 21:31:05 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
