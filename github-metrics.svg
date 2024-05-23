@@ -30,18 +30,18 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3364 Commits
+                            3368 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -381,7 +381,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        22.3k
+                                        22.4k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -634,6 +634,88 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#bf647f5</div>
+                                        <div class="message">docs: backups vault content - 2024-05-22 19:41
+
+Total files changed: 6
+
+Affected files:
+.obsidian/core-plugins.json
+.obsidian/plugins/readwise-official/data.json
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+00-09 System/02 Journal/02.01 Daily/2024/05/2024-05-22.md
+30-39 Entertainment/35 Podcasts/35.02 Show Notes/Automators Max/Automators Max - 154 Automating on the iPad.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5434775</div>
+                                        <div class="message">docs: backups vault content - 2024-05-22 19:11
+
+Total files changed: 28
+
+Affected files:
+.obsidian/core-plugins.json
+.obsidian/plugins/readwise-official/data.json
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+30-39 Entertainment/36 Books/36.01 Inbox/Ready Player One - Ernest Cline.md
+30-39 Entertainment/36 Books/36.02 Fiction/Columbus Day - Craig Alanson.md
+30-39 Entertainment/36 Books/36.02 Fiction/Cryptonomicon - Neal Stephenson.md
+30-39 Entertainment/36 Books/36.02 Fiction/Fear the Future - Stephen Moss.md
+30-39 Entertainment/36 Books/36.02 Fiction/Fear the Sky - Stephen Moss.md
+30-39 Entertainment/36 Books/36.02 Fiction/Fear the Survivors - Stephen Moss.md
+30-39 Entertainment/36 Books/36.02 Fiction/Fluency - Jennifer Foehner Wells.md
+30-39 Entertainment/36 Books/36.02 Fiction/Freedom (TM) - Daniel Suarez.md
+30-39 Entertainment/36 Books/36.02 Fiction/Remanence - Jennifer Foehner Wells.md
+30-39 Entertainment/36 Books/36.02 Fiction/The Consuming Fire - John Scalzi.md
+30-39 Entertainment/36 Books/36.02 Fiction/The Evolutionary Void - Peter F Hamilton.md
+30-39 Entertainment/36 Books/36.02 Fiction/The Ferryman - Justin Cronin.md
+30-39 Entertainment/36 Books/36.02 Fiction/The Last Emperox - John Scalzi 1.md
+30-39 Entertainment/36 Books/36.02 Fiction/The Last Emperox - John Scalzi.md
+30-39 Entertainment/36 Books/36.02 Fiction/World War Z - Max Brooks.md
+30-39 Entertainment/36 Books/36.02 Fiction/Zero Day - Mark Russinovich.md
+30-39 Entertainment/36 Books/36.03 Business &amp; Economics/Think Again - Adam Grant 1.md
+30-39 Entertainment/36 Books/36.06 Change (Psychology)/Tiny Habits - B J Fogg 1.md
+30-39 Entertainment/36 Books/_TO Be Converted/Influx.md
+30-39 Entertainment/36 Books/_TO Be Converted/Ready Player One.md
+30-39 Entertainment/36 Books/_TO Be Converted/The Idea Factory.md
+30-39 Entertainment/36 Books/_TO Be Converted/The Kaiju Preservation Society.md
+30-39 Entertainment/36 Books/_TO Be Converted/The Last Emperox - John Scalzi.md
+Library.canvas</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#1d0a150</div>
                                         <div class="message">docs: backups vault content - 2024-05-21 21:06
 
@@ -808,113 +890,6 @@ Affected files:
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e3bf065</div>
-                                        <div class="message">docs: backups vault content - 2024-05-20 21:24
-
-Total files changed: 32
-
-Affected files:
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-00-09 System/00 Index/00.11 Book Index/00.11 Books Read by Date.md
-00-09 System/02 Journal/02.01 Daily/2024/05/2024-05-20.md
-30-39 Entertainment/36 Books/36.01 Inbox/Code Complete - Steve McConnell.md
-30-39 Entertainment/36 Books/36.01 Inbox/The DevOps Handbook - Gene Kim Jez Humble Patrick Debois John Willis.md
-30-39 Entertainment/36 Books/36.02 Fiction/Altered Carbon - Richard K Morgan.md
-30-39 Entertainment/36 Books/36.02 Fiction/Anathem - Neal Stephenson.md
-30-39 Entertainment/36 Books/36.02 Fiction/Delta-v - Daniel Suarez.md
-30-39 Entertainment/36 Books/36.02 Fiction/Heaven's River - Dennis E Taylor.md
-30-39 Entertainment/36 Books/36.02 Fiction/Hyperion - Dan Simmons.md
-30-39 Entertainment/36 Books/36.02 Fiction/Last Year - Robert Charles Wilson.md
-30-39 Entertainment/36 Books/36.02 Fiction/Project Hail Mary - Andy Weir.md
-30-39 Entertainment/36 Books/36.02 Fiction/Redshirts - John Scalzi.md
-30-39 Entertainment/36 Books/36.02 Fiction/Spin - Robert Charles Wilson.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Consuming Fire - John Scalzi.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Fall of Hyperion - Dan Simmons.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Last Emperox - John Scalzi 1.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Martian - Andy Weir 1.md
-30-39 Entertainment/36 Books/36.03 Business &amp; Economics/The Phoenix Project - Gene Kim Kevin Behr George Spafford.md
-30-39 Entertainment/36 Books/36.04 Computers/Fancy Bear Goes Phishing - Scott J Shapiro.md
-30-39 Entertainment/36 Books/36.04 Computers/User Stories Applied - Mike Cohn.md
-30-39 Entertainment/36 Books/_TO Be Converted/Hyperion.md
-30-39 Entertainment/36 Books/_TO Be Converted/Last Year.md
-30-39 Entertainment/36 Books/_TO Be Converted/Project Hail Mary - Andy Weir.md
-30-39 Entertainment/36 Books/_TO Be Converted/Redshirts.md
-30-39 Entertainment/36 Books/_TO Be Converted/Spin.md
-30-39 Entertainment/36 Books/_TO Be Converted/The Collapsing Empire - John Scalzi.md
-30-39 Entertainment/36 Books/_TO Be Converted/The Fall of Hyperion.md
-30-39 Entertainment/36 Books/_TO Be Converted/The Martian.md
-30-39 Entertainment/36 Books/_TO Be Converted/The Software Engineer's Guidebook - Gergely Orosz.md
-Library.canvas</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a540d67</div>
-                                        <div class="message">docs: backups vault content - 2024-05-20 20:54
-
-Total files changed: 27
-
-Affected files:
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-00-09 System/02 Journal/02.01 Daily/2024/02/2024-02-09.md
-30-39 Entertainment/36 Books/36.02 Fiction/All These Worlds - Dennis E Taylor.md
-30-39 Entertainment/36 Books/36.02 Fiction/Artemis - Andy Weir.md
-30-39 Entertainment/36 Books/36.02 Fiction/Broken Angels - Richard K Morgan.md
-30-39 Entertainment/36 Books/36.02 Fiction/Critical Mass - Daniel Suarez.md
-30-39 Entertainment/36 Books/36.02 Fiction/Delta-v - Daniel Suarez.md
-30-39 Entertainment/36 Books/36.02 Fiction/Fluency - Jennifer Foehner Wells.md
-30-39 Entertainment/36 Books/36.02 Fiction/For We Are Many - Dennis E Taylor.md
-30-39 Entertainment/36 Books/36.02 Fiction/Head On - John Scalzi.md
-30-39 Entertainment/36 Books/36.02 Fiction/Heaven's River - Dennis E Taylor.md
-30-39 Entertainment/36 Books/36.02 Fiction/Remanence - Jennifer Foehner Wells.md
-30-39 Entertainment/36 Books/36.02 Fiction/Rise of Endymion - Dan Simmons.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Druid Gene - Jennifer Foehner Wells.md
-30-39 Entertainment/36 Books/36.02 Fiction/To Your Scattered Bodies Go - Philip Jose Farmer.md
-30-39 Entertainment/36 Books/36.02 Fiction/We Are Legion (We Are Bob) - Dennis E Taylor.md
-30-39 Entertainment/36 Books/36.02 Fiction/Woken Furies - Richard K Morgan.md
-30-39 Entertainment/36 Books/36.06 Change (Psychology)/Tiny Habits - B J Fogg 1.md
-30-39 Entertainment/36 Books/36.07 Science/Our Mathematical Universe - Max Tegmark.md
-30-39 Entertainment/36 Books/36.07 Science/The Order of Time - Carlo Rovelli.md
-30-39 Entertainment/36 Books/36.11 True Crime/36.11 True Crime.md
-30-39 Entertainment/36 Books/36.11 True Crime/Tracers in the Dark - Andy Greenberg.md
-30-39 Entertainment/36 Books/_TO Be Converted/Head On.md
-30-39 Entertainment/36 Books/_TO Be Converted/Heaven's River - Dennis E Taylor.md
-30-39 Entertainment/36 Books/_TO Be Converted/Starter Villain - John Scalzi.md
-30-39 Entertainment/36 Books/_TO Be Converted/The Order of Time.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -970,7 +945,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 May 2024, 19:07:42 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 May 2024, 20:24:10 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
