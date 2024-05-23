@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3372 Commits
+                            3374 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    179 MB used
+                                    173 MB used
                                 </div>
                             </section>
                             <section>
@@ -634,6 +634,50 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#fc8551c</div>
+                                        <div class="message">docs: backups vault content - 2024-05-23 18:44
+
+Total files changed: 20
+
+Affected files:
+.obsidian/plugins/readwise-official/data.json
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+00-09 System/05 Templates/05.02 Obsidian File Classes/JD.ID.md
+30-39 Entertainment/32 Television/32.02 Trakt/Star Wars- The Bad Batch/03/Star Wars: The Bad Batch  03x11 "Point of No Return".md
+30-39 Entertainment/32 Television/32.02 Trakt/Star Wars- The Bad Batch/03/Star Wars: The Bad Batch  03x12 "Juggernaut".md
+30-39 Entertainment/36 Books/36 Books.md
+30-39 Entertainment/36 Books/36.01 Inbox/Termination Shock - Neal Stephenson.md
+30-39 Entertainment/36 Books/36.02 Fiction/Sandworms of Dune - Brian Herbert Kevin J Anderson.md
+30-39 Entertainment/36 Books/36.02 Fiction/Sea of Tranquility - Emily St John Mandel.md
+30-39 Entertainment/36 Books/36.02 Fiction/Shards of Earth - Adrian Tchaikovsky.md
+30-39 Entertainment/36 Books/36.02 Fiction/Termination Shock - Neal Stephenson.md
+30-39 Entertainment/36 Books/36.05 Computer programming/36.05 Computer programming.md
+30-39 Entertainment/36 Books/36.08 History/36.08 History.md
+30-39 Entertainment/36 Books/36.13 Performing Arts/36.13 Performing Arts.md
+30-39 Entertainment/36 Books/36.13 Performing Arts/Surely You Can't Be Serious - David Zucker Jim Abrahams Jerry Zucker.md
+30-39 Entertainment/36 Books/_TO Be Converted/Sea of Tranquility - Emily St John Mandel.md
+30-39 Entertainment/36 Books/_TO Be Converted/Shards of Earth - Adrian Tchaikovsky.md
+30-39 Entertainment/36 Books/_TO Be Converted/Surely You Can't Be Serious - David Zucker Jim Abrahams Jerry Zucker.md
+30-39 Entertainment/36 Books/_TO Be Converted/_TO Be Converted.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#b473f02</div>
                                         <div class="message">docs: backups vault content - 2024-05-22 21:41
 
@@ -823,134 +867,6 @@ Library.canvas</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1d0a150</div>
-                                        <div class="message">docs: backups vault content - 2024-05-21 21:06
-
-Total files changed: 104
-
-Affected files:
-.obsidian/community-plugins.json
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-00-09 System/02 Journal/02.01 Daily/2024/05/2024-05-21.md
-00-09 System/05 Templates/05.02 Obsidian File Classes/Book.md
-30-39 Entertainment/36 Books/36.02 Fiction/14 - Peter Clines.md
-30-39 Entertainment/36 Books/36.02 Fiction/All Systems Red - Martha Wells.md
-30-39 Entertainment/36 Books/36.02 Fiction/All These Worlds - Dennis E Taylor.md
-30-39 Entertainment/36 Books/36.02 Fiction/Altered Carbon - Richard K Morgan.md
-30-39 Entertainment/36 Books/36.02 Fiction/Anathem - Neal Stephenson.md
-30-39 Entertainment/36 Books/36.02 Fiction/Artemis - Andy Weir.md
-30-39 Entertainment/36 Books/36.02 Fiction/Axis - Robert Charles Wilson.md
-30-39 Entertainment/36 Books/36.02 Fiction/Broken Angels - Richard K Morgan.md
-30-39 Entertainment/36 Books/36.02 Fiction/Change Agent - Daniel Suarez.md
-30-39 Entertainment/36 Books/36.02 Fiction/Chapterhouse Dune - Frank Herbert.md
-30-39 Entertainment/36 Books/36.02 Fiction/Children of Dune - Frank Herbert.md
-30-39 Entertainment/36 Books/36.02 Fiction/Children of Time - Adrian Tchaikovsky.md
-30-39 Entertainment/36 Books/36.02 Fiction/Critical Mass - Daniel Suarez.md
-30-39 Entertainment/36 Books/36.02 Fiction/Daemon - Daniel Suarez.md
-30-39 Entertainment/36 Books/36.02 Fiction/Death's End - Cixin Liu.md
-30-39 Entertainment/36 Books/36.02 Fiction/Delta-v - Daniel Suarez.md
-30-39 Entertainment/36 Books/36.02 Fiction/Dune - Frank Herbert.md
-30-39 Entertainment/36 Books/36.02 Fiction/Dune Messiah - Frank Herbert.md
-30-39 Entertainment/36 Books/36.02 Fiction/Endymion - Dan Simmons.md
-30-39 Entertainment/36 Books/36.02 Fiction/Fluency - Jennifer Foehner Wells.md
-30-39 Entertainment/36 Books/36.02 Fiction/For We Are Many - Dennis E Taylor.md
-30-39 Entertainment/36 Books/36.02 Fiction/Freedom (TM) - Daniel Suarez.md
-30-39 Entertainment/36 Books/36.02 Fiction/God Emperor of Dune - Frank Herbert.md
-30-39 Entertainment/36 Books/36.02 Fiction/Gods of Riverworld - Philip José Farmer.md
-30-39 Entertainment/36 Books/36.02 Fiction/Going Dark - Linda Nagata.md
-30-39 Entertainment/36 Books/36.02 Fiction/Head On - John Scalzi.md
-30-39 Entertainment/36 Books/36.02 Fiction/Heaven's River - Dennis E Taylor.md
-30-39 Entertainment/36 Books/36.02 Fiction/Hyperion - Dan Simmons.md
-30-39 Entertainment/36 Books/36.02 Fiction/Last Year - Robert Charles Wilson.md
-30-39 Entertainment/36 Books/36.02 Fiction/Lock In - John Scalzi.md
-30-39 Entertainment/36 Books/36.02 Fiction/Project Hail Mary - Andy Weir.md
-30-39 Entertainment/36 Books/36.02 Fiction/Redshirts - John Scalzi.md
-30-39 Entertainment/36 Books/36.02 Fiction/Remanence - Jennifer Foehner Wells.md
-30-39 Entertainment/36 Books/36.02 Fiction/Rise of Endymion - Dan Simmons.md
-30-39 Entertainment/36 Books/36.02 Fiction/Rogue Code - Mark Russinovich.md
-30-39 Entertainment/36 Books/36.02 Fiction/Seveneves - Neal Stephenson.md
-30-39 Entertainment/36 Books/36.02 Fiction/Spin - Robert Charles Wilson.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Collapsing Empire - John Scalzi.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Consuming Fire - John Scalzi.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Dark Design - Philip José Farmer.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Druid Gene - Jennifer Foehner Wells.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Evolutionary Void - Peter F Hamilton.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Fabulous Riverboat - Philip José Farmer.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Fall of Hyperion - Dan Simmons.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Ferryman - Justin Cronin.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Fold - Peter Clines.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Kaiju Preservation Society - John Scalzi.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Last Emperox - John Scalzi 1.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Last Emperox - John Scalzi.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Martian - Andy Weir 1.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Red - Linda Nagata.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Trials - Linda Nagata.md
-30-39 Entertainment/36 Books/36.02 Fiction/To Your Scattered Bodies Go - Philip José Farmer.md
-30-39 Entertainment/36 Books/36.02 Fiction/Trojan Horse - Mark Russinovich.md
-30-39 Entertainment/36 Books/36.02 Fiction/Vortex - Robert Charles Wilson.md
-30-39 Entertainment/36 Books/36.02 Fiction/We Are Legion (We Are Bob) - Dennis E Taylor.md
-30-39 Entertainment/36 Books/36.02 Fiction/Woken Furies - Richard K Morgan.md
-30-39 Entertainment/36 Books/36.02 Fiction/World War Z - Max Brooks 1.md
-30-39 Entertainment/36 Books/36.02 Fiction/Zero Day - Mark Russinovich.md
-30-39 Entertainment/36 Books/36.02 Fiction/Zoe's Tale - John Scalzi.md
-30-39 Entertainment/36 Books/36.03 Business &amp; Economics/Building a Second Brain - Tiago Forte.md
-30-39 Entertainment/36 Books/36.03 Business &amp; Economics/Getting Things Done - David Allen.md
-30-39 Entertainment/36 Books/36.03 Business &amp; Economics/Slow Productivity - Cal Newport.md
-30-39 Entertainment/36 Books/36.03 Business &amp; Economics/The DevOps Handbook - Gene Kim Jez Humble Patrick Debois John Willis.md
-30-39 Entertainment/36 Books/36.03 Business &amp; Economics/The Phoenix Project - Gene Kim Kevin Behr George Spafford.md
-30-39 Entertainment/36 Books/36.03 Business &amp; Economics/Think Again - Adam Grant.md
-30-39 Entertainment/36 Books/36.04 Computers/Code Complete - Steve McConnell.md
-30-39 Entertainment/36 Books/36.04 Computers/Fancy Bear Goes Phishing - Scott J Shapiro.md
-30-39 Entertainment/36 Books/36.04 Computers/Ghost in the Wires - Kevin Mitnick.md
-30-39 Entertainment/36 Books/36.04 Computers/Site Reliability Engineering - Niall Richard Murphy Betsy Beyer Chris Jones Jennifer Petoff.md
-30-39 Entertainment/36 Books/36.04 Computers/The Site Reliability Workbook - Betsy Beyer Niall Richard Murphy David K Rensin Kent Kawahara Stephen Thorne.md
-30-39 Entertainment/36 Books/36.04 Computers/User Stories Applied - Mike Cohn.md
-30-39 Entertainment/36 Books/36.06 Change (Psychology)/Tiny Habits - B J Fogg.md
-30-39 Entertainment/36 Books/36.07 Science/Our Mathematical Universe - Max Tegmark.md
-30-39 Entertainment/36 Books/36.07 Science/The Order of Time - Carlo Rovelli.md
-30-39 Entertainment/36 Books/36.09 Cooking/Mastering Pizza - Marc Vetri David Joachim.md
-30-39 Entertainment/36 Books/36.12 Health &amp; Fitness/36.12 Health &amp; Fitness.md
-30-39 Entertainment/36 Books/36.12 Health &amp; Fitness/Outlive - Peter Attia MD.md
-30-39 Entertainment/36 Books/_TO Be Converted/Ghost in the Wires.md
-30-39 Entertainment/36 Books/_TO Be Converted/God Emperor of Dune.md
-30-39 Entertainment/36 Books/_TO Be Converted/Gods of Riverworld.md
-30-39 Entertainment/36 Books/_TO Be Converted/Going Dark.md
-30-39 Entertainment/36 Books/_TO Be Converted/Heretics of Dune.md
-30-39 Entertainment/36 Books/_TO Be Converted/Hunters of Dune - Brian Herbert Kevin J Anderson.md
-30-39 Entertainment/36 Books/_TO Be Converted/Old Man's War.md
-30-39 Entertainment/36 Books/_TO Be Converted/Outlive - Peter Attia MD.md
-30-39 Entertainment/36 Books/_TO Be Converted/Rise of Endymion.md
-30-39 Entertainment/36 Books/_TO Be Converted/Sandworms of Dune - Brian Herbert Kevin J Anderson.md
-30-39 Entertainment/36 Books/_TO Be Converted/Site Reliability Engineering - Niall Richard Murphy Betsy Beyer Chris Jones Jennifer Petoff.md
-30-39 Entertainment/36 Books/_TO Be Converted/Slow Productivity - Cal Newport.md
-30-39 Entertainment/36 Books/_TO Be Converted/Terraform in Action - Scott Winkler.md
-30-39 Entertainment/36 Books/_TO Be Converted/The Dreaming Void.md
-30-39 Entertainment/36 Books/_TO Be Converted/The End of All Things.md
-30-39 Entertainment/36 Books/_TO Be Converted/The Ghost Brigades.md
-30-39 Entertainment/36 Books/_TO Be Converted/The Human Division - John Scalzi.md
-30-39 Entertainment/36 Books/_TO Be Converted/The Last Colony.md
-30-39 Entertainment/36 Books/_TO Be Converted/The Last Emperox - John Scalzi.md
-30-39 Entertainment/36 Books/_TO Be Converted/The Magic Labyrinth.md
-30-39 Entertainment/36 Books/_TO Be Converted/The Temporal Void.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1006,7 +922,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 May 2024, 18:06:39 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 May 2024, 19:07:34 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
