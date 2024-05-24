@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3374 Commits
+                            3380 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -634,6 +634,90 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#93bdbba</div>
+                                        <div class="message">docs: backups vault content - 2024-05-23 20:14
+
+Total files changed: 1
+
+Affected files:
+00-09 System/02 Journal/02.01 Daily/2024/05/2024-05-23.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a7f02cc</div>
+                                        <div class="message">docs: backups vault content - 2024-05-23 19:44
+
+Total files changed: 5
+
+Affected files:
+.obsidian/plugins/obsidian-style-settings/data.json
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+00-09 System/02 Journal/02.01 Daily/2024/05/2024-05-23.md
+00-09 System/02 Journal/02.01 Daily/2024/06/2024-06-03.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#242308d</div>
+                                        <div class="message">docs: backups vault content - 2024-05-23 19:14
+
+Total files changed: 6
+
+Affected files:
+.obsidian/plugins/obsidian-style-settings/data.json
+.obsidian/plugins/readwise-official/data.json
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+00-09 System/02 Journal/02.01 Daily/2024/05/2024-05-22.md
+00-09 System/02 Journal/02.01 Daily/2024/05/2024-05-23.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#fc8551c</div>
                                         <div class="message">docs: backups vault content - 2024-05-23 18:44
 
@@ -734,139 +818,6 @@ Affected files:
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fc0164b</div>
-                                        <div class="message">docs: backups vault content - 2024-05-22 21:11
-
-Total files changed: 27
-
-Affected files:
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-00-09 System/02 Journal/02.01 Daily/2024/05/2024-05-22.md
-30-39 Entertainment/36 Books/36.02 Fiction/Heretics of Dune - Frank Herbert.md
-30-39 Entertainment/36 Books/36.02 Fiction/Hunters of Dune - Brian Herbert Kevin J Anderson.md
-30-39 Entertainment/36 Books/36.02 Fiction/Judas Unchained - Peter F Hamilton.md
-30-39 Entertainment/36 Books/36.02 Fiction/Kill Decision - Daniel Suarez.md
-30-39 Entertainment/36 Books/36.02 Fiction/Lock In - John Scalzi 1.md
-30-39 Entertainment/36 Books/36.02 Fiction/Old Man's War - John Scalzi.md
-30-39 Entertainment/36 Books/36.02 Fiction/Pandora's Star - Peter F Hamilton.md
-30-39 Entertainment/36 Books/36.02 Fiction/Rise of Endymion - Dan Simmons 1.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Last Colony - John Scalzi.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Magic Labyrinth - Philip José Farmer.md
-30-39 Entertainment/36 Books/36.03 Business &amp; Economics/Measure What Matters - John Doerr.md
-30-39 Entertainment/36 Books/36.07 Science/On the Origin of Time - Thomas Hertog.md
-30-39 Entertainment/36 Books/_TO Be Converted/Heretics of Dune.md
-30-39 Entertainment/36 Books/_TO Be Converted/Judas Unchained.md
-30-39 Entertainment/36 Books/_TO Be Converted/Kill Decision.md
-30-39 Entertainment/36 Books/_TO Be Converted/Measure What Matters - John Doerr.md
-30-39 Entertainment/36 Books/_TO Be Converted/Old Man's War.md
-30-39 Entertainment/36 Books/_TO Be Converted/On the Origin of Time - Thomas Hertog.md
-30-39 Entertainment/36 Books/_TO Be Converted/Pandora's Star.md
-30-39 Entertainment/36 Books/_TO Be Converted/Rise of Endymion.md
-30-39 Entertainment/36 Books/_TO Be Converted/The Ferryman.md
-30-39 Entertainment/36 Books/_TO Be Converted/The Last Colony.md
-30-39 Entertainment/36 Books/_TO Be Converted/The Lock In Series.md
-30-39 Entertainment/36 Books/_TO Be Converted/The Magic Labyrinth.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bf647f5</div>
-                                        <div class="message">docs: backups vault content - 2024-05-22 19:41
-
-Total files changed: 6
-
-Affected files:
-.obsidian/core-plugins.json
-.obsidian/plugins/readwise-official/data.json
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-00-09 System/02 Journal/02.01 Daily/2024/05/2024-05-22.md
-30-39 Entertainment/35 Podcasts/35.02 Show Notes/Automators Max/Automators Max - 154 Automating on the iPad.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5434775</div>
-                                        <div class="message">docs: backups vault content - 2024-05-22 19:11
-
-Total files changed: 28
-
-Affected files:
-.obsidian/core-plugins.json
-.obsidian/plugins/readwise-official/data.json
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-30-39 Entertainment/36 Books/36.01 Inbox/Ready Player One - Ernest Cline.md
-30-39 Entertainment/36 Books/36.02 Fiction/Columbus Day - Craig Alanson.md
-30-39 Entertainment/36 Books/36.02 Fiction/Cryptonomicon - Neal Stephenson.md
-30-39 Entertainment/36 Books/36.02 Fiction/Fear the Future - Stephen Moss.md
-30-39 Entertainment/36 Books/36.02 Fiction/Fear the Sky - Stephen Moss.md
-30-39 Entertainment/36 Books/36.02 Fiction/Fear the Survivors - Stephen Moss.md
-30-39 Entertainment/36 Books/36.02 Fiction/Fluency - Jennifer Foehner Wells.md
-30-39 Entertainment/36 Books/36.02 Fiction/Freedom (TM) - Daniel Suarez.md
-30-39 Entertainment/36 Books/36.02 Fiction/Remanence - Jennifer Foehner Wells.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Consuming Fire - John Scalzi.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Evolutionary Void - Peter F Hamilton.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Ferryman - Justin Cronin.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Last Emperox - John Scalzi 1.md
-30-39 Entertainment/36 Books/36.02 Fiction/The Last Emperox - John Scalzi.md
-30-39 Entertainment/36 Books/36.02 Fiction/World War Z - Max Brooks.md
-30-39 Entertainment/36 Books/36.02 Fiction/Zero Day - Mark Russinovich.md
-30-39 Entertainment/36 Books/36.03 Business &amp; Economics/Think Again - Adam Grant 1.md
-30-39 Entertainment/36 Books/36.06 Change (Psychology)/Tiny Habits - B J Fogg 1.md
-30-39 Entertainment/36 Books/_TO Be Converted/Influx.md
-30-39 Entertainment/36 Books/_TO Be Converted/Ready Player One.md
-30-39 Entertainment/36 Books/_TO Be Converted/The Idea Factory.md
-30-39 Entertainment/36 Books/_TO Be Converted/The Kaiju Preservation Society.md
-30-39 Entertainment/36 Books/_TO Be Converted/The Last Emperox - John Scalzi.md
-Library.canvas</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -922,7 +873,7 @@ Library.canvas</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 May 2024, 19:07:34 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 May 2024, 20:24:49 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
