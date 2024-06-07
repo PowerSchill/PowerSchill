@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3581 Commits
+                            3585 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -627,6 +627,136 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#eddcb77</div>
+                                        <div class="message">docs: backups vault content - 2024-06-07 18:04
+
+Total files changed: 70
+
+Affected files:
+.obsidian/plugins/attachment-management/data.json
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/plugins/templater-obsidian/data.json
+.obsidian/workspace.json
+00-09 System/01 Inbox/01.02 Attachments/00 Index-2024-06-07.jpeg
+00-09 System/01 Inbox/01.02 Attachments/00-09 System/00-09 System.md
+00-09 System/01 Inbox/01.02 Attachments/00-09 System/02 Journal/02 Journal.md
+00-09 System/01 Inbox/01.02 Attachments/00-09 System/02 Journal/02.02 Weekly/02.02 Weekly.md
+00-09 System/01 Inbox/01.02 Attachments/00-09 System/02 Journal/02.02 Weekly/2024/2024-W19-2024-06-07.png
+00-09 System/01 Inbox/01.02 Attachments/00-09 System/02 Journal/02.02 Weekly/2024/2024.md
+00-09 System/01 Inbox/01.02 Attachments/00-09 System/02 Journal/02.03 Monthly/02.03 Monthly.md
+00-09 System/01 Inbox/01.02 Attachments/00-09 System/02 Journal/02.03 Monthly/2023/2023-01-2024-06-07.png
+00-09 System/01 Inbox/01.02 Attachments/00-09 System/02 Journal/02.03 Monthly/2023/2023-02-2024-06-07.png
+00-09 System/01 Inbox/01.02 Attachments/00-09 System/02 Journal/02.03 Monthly/2023/2023-05-2024-06-07.png
+00-09 System/01 Inbox/01.02 Attachments/00-09 System/02 Journal/02.03 Monthly/2023/2023.md
+00-09 System/01 Inbox/01.02 Attachments/00-09 System/04 Standard Operating Procedures/04 Standard Operating Procedures.md
+00-09 System/01 Inbox/01.02 Attachments/00-09 System/04 Standard Operating Procedures/04.02 Periodic Reviews/04.02 Monthly Review-2024-06-07.mp4
+00-09 System/01 Inbox/01.02 Attachments/00-09 System/04 Standard Operating Procedures/04.02 Periodic Reviews/04.02 Periodic Reviews.md
+00-09 System/01 Inbox/01.02 Attachments/00-09 System/04 Standard Operating Procedures/04.02 Periodic Reviews/04.02 Weekly Review-2024-06-07-1.mp4
+00-09 System/01 Inbox/01.02 Attachments/00-09 System/04 Standard Operating Procedures/04.02 Periodic Reviews/04.02 Weekly Review-2024-06-07.mp4
+00-09 System/01 Inbox/01.02 Attachments/00-09 System/05 Templates/05 Templates.md
+00-09 System/01 Inbox/01.02 Attachments/00-09 System/05 Templates/05.01 Obsidian Templates/05.01 Obsidian Templates.md
+00-09 System/01 Inbox/01.02 Attachments/00-09 System/05 Templates/05.01 Obsidian Templates/Person-2024-06-07.jpg
+00-09 System/01 Inbox/01.02 Attachments/10-19 Atomic/00 Inbox/00 Inbox.md
+00-09 System/01 Inbox/01.02 Attachments/10-19 Atomic/00 Inbox/D3 Admin Audit-2024-06-07-1.png
+00-09 System/01 Inbox/01.02 Attachments/10-19 Atomic/00 Inbox/D3 Admin Audit-2024-06-07.png
+00-09 System/01 Inbox/01.02 Attachments/10-19 Atomic/10-19 Atomic.md
+00-09 System/01 Inbox/01.02 Attachments/10-19 Atomic/11 Notes/11 Notes.md
+00-09 System/01 Inbox/01.02 Attachments/10-19 Atomic/11 Notes/Johnny Decimal System-2024-06-07.png
+00-09 System/01 Inbox/01.02 Attachments/21fe3dd96c751c19d3071a8e4c98a027.jpeg
+00-09 System/01 Inbox/01.02 Attachments/40-49 Technology/40-49 Technology.md
+00-09 System/01 Inbox/01.02 Attachments/40-49 Technology/41 Software/41 Software.md
+00-09 System/01 Inbox/01.02 Attachments/40-49 Technology/41 Software/41.23 Home Assistant/41.23 Home Assistant-2024-06-07.png
+00-09 System/01 Inbox/01.02 Attachments/40-49 Technology/41 Software/41.23 Home Assistant/41.23 Home Assistant.md
+00-09 System/01 Inbox/01.02 Attachments/40-49 Technology/44 Services/44 Services.md
+00-09 System/01 Inbox/01.02 Attachments/40-49 Technology/44 Services/44.10 AWS/44.10 AWS.md
+00-09 System/01 Inbox/01.02 Attachments/40-49 Technology/44 Services/44.10 AWS/AWS Certified SysOps Admin - Associate-2024-06-07.png
+00-09 System/01 Inbox/01.02 Attachments/40-49 Technology/44 Services/44.10 AWS/Securing AWS Networks-2024-06-07-1.png
+00-09 System/01 Inbox/01.02 Attachments/40-49 Technology/44 Services/44.10 AWS/Securing AWS Networks-2024-06-07-2.png
+00-09 System/01 Inbox/01.02 Attachments/40-49 Technology/44 Services/44.10 AWS/Securing AWS Networks-2024-06-07.png
+00-09 System/01 Inbox/01.02 Attachments/42.03 Python-2024-06-07.jpeg
+00-09 System/01 Inbox/01.02 Attachments/60-69 Professional/60-69 Professional.md
+00-09 System/01 Inbox/01.02 Attachments/60-69 Professional/GitHub Tips and Tricks-2024-06-07.png
+00-09 System/01 Inbox/01.02 Attachments/Pasted image 20220705123357.png
+00-09 System/01 Inbox/01.02 Attachments/Pasted image 20221130104614.png
+00-09 System/01 Inbox/01.02 Attachments/Project-2024-06-07.jpg
+00-09 System/01 Inbox/01.02 Attachments/The Silo Series Collection - Hugh Howey.jpg
+00-09 System/02 Journal/02.02 Weekly/2024/2024-W19.md
+00-09 System/02 Journal/02.03 Monthly/2023/2023-01.md
+00-09 System/02 Journal/02.03 Monthly/2023/2023-02.md
+00-09 System/02 Journal/02.03 Monthly/2023/2023-03.md
+00-09 System/02 Journal/02.03 Monthly/2023/2023-04.md
+00-09 System/02 Journal/02.03 Monthly/2023/2023-05.md
+00-09 System/02 Journal/02.03 Monthly/2023/2023-07.md
+00-09 System/02 Journal/02.03 Monthly/2023/2023-08.md
+00-09 System/02 Journal/02.03 Monthly/2023/2023-10.md
+00-09 System/02 Journal/02.03 Monthly/2023/2023-11.md
+00-09 System/04 Standard Operating Procedures/04.02 Periodic Reviews/04.02 Monthly Review.md
+00-09 System/04 Standard Operating Procedures/04.02 Periodic Reviews/04.02 Weekly Review.md
+00-09 System/05 Templates/05.01 Obsidian Templates/Person.md
+10-19 Atomic/00 Inbox/D3 Admin Audit.md
+10-19 Atomic/11 Notes/Johnny Decimal System.md
+30-39 Entertainment/32 Television/32.02 Trakt/Space's Deepest Secrets/08/08.md
+30-39 Entertainment/32 Television/32.02 Trakt/Space's Deepest Secrets/08/Space's Deepest Secrets  08x08 "The New Explorers".md
+30-39 Entertainment/32 Television/32.02 Trakt/Space's Deepest Secrets/Space's Deepest Secrets.md
+40-49 Technology/41 Software/41.23 Home Assistant/41.23 Home Assistant.md
+40-49 Technology/44 Services/44.10 AWS/AWS Certified SysOps Admin - Associate.md
+40-49 Technology/44 Services/44.10 AWS/Securing AWS Networks.md
+60-69 Professional/GitHub Tips and Tricks.md
+Dashboard.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#78fa620</div>
+                                        <div class="message">docs: backups vault content - 2024-06-07 17:34
+
+Total files changed: 12
+
+Affected files:
+.obsidian/community-plugins.json
+.obsidian/plugins/attachment-management/data.json
+.obsidian/plugins/attachment-management/main.js
+.obsidian/plugins/attachment-management/manifest.json
+.obsidian/plugins/attachment-management/styles.css
+.obsidian/plugins/homepage/data.json
+.obsidian/plugins/homepage/main.js
+.obsidian/plugins/homepage/manifest.json
+.obsidian/plugins/homepage/styles.css
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+00-09 System/02 Journal/02.01 Daily/2024/06/2024-06-07.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">PowerSchill/Obsidian_Personal_System</span>
                                     </div>
@@ -712,60 +842,6 @@ Affected files:
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c07b275</div>
-                                        <div class="message">docs: backups vault content - 2024-06-06 18:47
-
-Total files changed: 3
-
-Affected files:
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-00-09 System/02 Journal/02.01 Daily/2024/06/2024-06-06.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7fbacc3</div>
-                                        <div class="message">docs: backups vault content - 2024-06-05 20:37
-
-Total files changed: 3
-
-Affected files:
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-00-09 System/02 Journal/02.01 Daily/2024/06/2024-06-05.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -821,7 +897,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jun 2024, 17:08:01 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jun 2024, 18:06:58 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
