@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1626" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1627" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3613 Commits
+                            3617 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -634,6 +634,475 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#0cddf9f</div>
+                                        <div class="message">docs: backups vault content - 2024-06-08 16:40
+
+Total files changed: 1
+
+Affected files:
+60-69 Professional/61 Projects/61.11 Obtain AWS Certified Security - Specialty Certification/AWS Certified Solutions Architect - Associate (SAA-C03).md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#00ae679</div>
+                                        <div class="message">docs: backups vault content - 2024-06-08 16:10
+
+Total files changed: 420
+
+Affected files:
+.obsidian/community-plugins.json
+.obsidian/plugins/obsidian-raindrop-highlights/data.json
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/10 Fun Things You Can Do With GitHub.dev 😎.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/10 More Random Obsidian Tips  Lou Plummer.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/50+ Beginner Tips and Tricks for Allthemods 8 &amp;amp; 9!.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/A Comprehensive Guide to All 120+ Settings URLs Supported by iOS and iPadOS 13.1 - MacStories.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/A Slack Bot Framework For Golang.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/ASCII Tree Generator.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/ATM9 mac m1 crash upon creating new world · Issue 407 · AllTheModsATM-9.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/AWS Identity and Access Management Documentation.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/AWS Pricing Calculator.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/AWS Region Names.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/AWS Support App in Slack - AWS Support.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Access AWS using a Google Cloud Platform native workload identity  Amazon Web Services.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Active Directory Discovery with a Mac.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Adding Color to Obsidian--- A Rainbow of Possibility! - Feature archive - Obsidian Forum.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Agile Product Ownership in a Nutshell.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Alfred App Community Forum.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Alfred-publicolog at main · pearcenukAlfred-public.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/AlgoSec Cloud.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/All bookmarks.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Amazon Resource Names (ARNs) - AWS Identity and Access Management.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Apple Rainbow Logo Color Scheme » Blue » SchemeColor.com.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Aqua Cloud Native Security Platform.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Architecting Amazon EKS for PCI DSS Compliance.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Architectural Decision Records.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Argo CD - NonProd.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Argo CD - Production.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Artifactory Cloud Documentation and Training - Tools COI - Confluence.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Astronomy Picture of the Day.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Aurora MySQL Immersion Day.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Automate Terraform Testing with GitHub Actions and Terratest.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Automation April Never Forget to Stop a Timery Time Tracking Timer Again.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Automators Talk.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Autoscaling with self-hosted runners - GitHub Docs.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Aviatrix CoPilot.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Aviatrix.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Awesome Home Assistant.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Beautiful Free Images &amp;amp; Pictures  Unsplash.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Best practices for using Terraform  Google Cloud.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/BetterTouchTool Community.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Block Kit Builder - Slack.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Brainboard  Design, Deploy and Manage Cloud.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Bridge.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Building Secure and Reliable Systems - a book by Google.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Building with Block Kit.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/CCOSTANHome-AssistantConfig house Home Assistant configuration &amp;amp; Documentation for my Smart House. Write-ups, videos, part lists, and links throughout. Be sure to it. Updated FREQUENTLY!.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/CHANEL COCO MADEMOISELLE Eau de Parfum Spray  Nordstrom.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/CIDR.xyz.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Carbon Black Cloud.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Cavern - The rebirth of Cave  MineColonies Schematic Guides.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Celebrate with a Gift List in 2020 - It&amp;39;s Free - Things To Get Me.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Chaos Engineering  Fault Injection Simulator (FIS) workshop.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Check out my list on Amazon.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Chronicle.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Cisco Talos Intelligence Group - Comprehensive Threat Intelligence.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Clip selection to Obsidian - Create and Share - PopClip Forum.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Cloud Build – dbk-global-iac.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Cloud Build – dbk-iaas-sre-iac.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Cloud Compliance &amp;amp; Regulations Resources  Google Cloud.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Cloud Security Best Practices Center  Google Cloud.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Cloud cost estimates for Terraform in pull requests  Infracost.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/CoB Server Map (EU).md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Comment Flags Service with long options - BrettTerpstra.com.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Commitizen.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Commitlint Online - lint commit messages online.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Compare AWS and Azure services to Google Cloud  Google Cloud Free Program.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Comprehensive Obsidian &amp;amp; Git Sync Workflow 🔄️  Your Mind Under Version Control.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Configuring notifications - GitHub Docs.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Connecting AWS and GCP workloads with Workload Identity Federation (part 12)  Readwise.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Conventional Commit Regex.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Conventional Commits.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Cookbook · stedolanjq Wiki.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/CorculesKMlink.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Customize self-hosted runners (wsecurity best practices) OfficeHours.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/CyberArk.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/DBK GCP Migration - Technical Documentation - All Documents.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/DBK GCP Migration Documents.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/DEVONlink - Integrate Obsidian and DEVONthink - Axle.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/DEVONtechnologies Community - Where DEVONtechnologies users meet.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/DI Scrum Teams - Digital Insight Engineering - Confluence.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/DNS History.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Dark Reader — dark theme for every website.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Data Classification - NCR Secure SDLC - Confluence.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Dataview Example Vault.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Dataview.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/DataviewJS and checklist avoid cancelled tasks.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Deckset for Mac Presentations from Markdown in No Time.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Develop a Slack-bot using Golang.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Diamond Circle Drop Earrings in 14k White Gold (15 ct. tw.)  Blue Nile.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Digital Banking GitHub Info - Digital Insight Engineering - Confluence.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Digital Banking SRE Community of Practice.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Dimensions  Database of Dimensioned Drawings.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Disabling Image Blocking for Trusted Senders.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Displaying images centered by default.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Docracy - Free Legal Documents.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Doctor Drafts.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Doing 2.0 - BrettTerpstra.com.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Drafts Community.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Dropbox Uploader.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/DubhAdHome-AssistantConfig My Home Assistant configuration files.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/DuckDuckGo !Bang.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Edge Layer Documentation - DigitalConnectedServices - Confluence.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Effective Go - The Go Programming Language.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Elicit The AI Research Assistant.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Embedding JavaScript (e.g. Mermaid).md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Enabling AWS Budget for multiple accounts within AWS Organization.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Eva Design System Deep learning color generator.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/FOD Interview • Stream Deck with Tim Stringer  MacSparky Labs.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Fh.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Figma the collaborative interface design tool.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/File Upload - OWASP Cheat Sheet Series.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Filesystem Hierarchy Standard.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Firefox Developer Edition.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Followgraph for Mastodon.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/ForkLift 4 - most advanced file manager and FTP client for macOS.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/GCP - How to build HA VPN connections between Google Cloud and AWS.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/GKE address management IPv4 address optimization.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Gather CLI - BrettTerpstra.com.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Georgia State Parks GeoTour.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Getting Started  QuickAdd.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/GitAliasgitalias Git alias commands for faster easier version control.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/GitHub - TfTHackerobsidian42-brat Beta Reviewer&amp;39;s Auto-update Tool for Obsidian. Part of the Obsidian42 family of plugins.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/GitHub - Yakitrakobsidian-cli at obsidian-iceberg.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/GitHub - charmbracelethuh Build terminal forms and prompts 🤷🏻‍♀️.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/GitHub - slack-goslack Slack API in Go - community-maintained fork created by the original author, @nlopes.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/GitHub.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/GitMurfroam-highlighter Chrome highlighter that quickly and easily puts your highlights into Roam format for easy pasting into your notes.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Go Cloud Client Libraries  Google Cloud.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Go Cookbook.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Go Template Preview.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Go databasesql tutorial.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/GoReleaser.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Google Cloud Architecture Framework.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Google Cloud Computing Platform.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Google Cloud IP addresses.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Google Cloud Logging Java client library new features  Google Cloud Blog.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Google Cloud Status Dashboard.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Google Cloud and HashiCorp · GitHub.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/GoogleCloudPlatformgolang-samples Sample apps and code written for Google Cloud in the Go programming language.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/GoogleCloudPlatformmonitoring-dashboard-samples.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Harness GitOps Overview - Harness.io Docs.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/HashiCorp Vault and Terraform on Google Cloud — Security Best Practices  by Ryan Canty  Medium.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Hey new users, introduce yourselves! - General Nerdery - The BrettTerpstra.com Forum.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Home  Iron&amp;39;s Spells n Spellbooks.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Home - NCR Cyber Security - Confluence.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Home - Workday.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Home Page  CISA.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Home Page [Keyboard Maestro Wiki].md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/HomeControl Menu for HomeKit.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Homepage  MineColonies Wiki.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/How I organize my budget in YNAB.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/How To Deploy NCR Hosted Workspace - D3 Hosting - Confluence.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/How To Organize Chests In Minecraft  Organyzedu.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/How do I get the server name with aws ec2 describe-instances.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/How do I parse command line arguments in Bash.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/How to Change Your Slack Font.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/How to Write a Git Commit Message.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/How to authenticate service accounts to help keep applications secure  Google Cloud Blog.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/How to convert Terraform AWS iam policies from json to hcl.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/How to handle folder moves in Terragrunt · gruntwork-io · Discussion 510.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/How to manage cost overruns in your AWS multi-account environment – Part 1  Amazon Web Services.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/How to receive alerts when your IAM configuration changes  Amazon Web Services.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/How to write the perfect pull request  The GitHub Blog.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/IAM permissions reference  Cloud IAM Documentation  Google Cloud.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/IP Address Tools, Network Tools, DNS Tools  IPVoid.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/IP Ranges  Cloudflare.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/IP addresses in Azure Functions  Microsoft Docs.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Implementing SLOs using Prometheus and Grafana.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Index of pubredhatlinux.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Insert elements into a page  Confluence Cloud  Atlassian Support.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Installing macOS on a separate APFS volume.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Installing the game on MacOS.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Interview Questions - SaaS Ops Service Delivery - Confluence.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Introducing Boilerplate.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Issues · kometenstaubmetadata-extractor.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Istio  What is Istio.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/JSD Front Door.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/JSON-to-Go Convert JSON to Go instantly.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/JWT.IO.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/JetBrainsgolandtipsandtricks This is an ever evolving repository for GoLand Tips&amp;amp;Tricks.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Jira Align.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Johnny.Decimal.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Kaleidoscope.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Key-less entry with GCP Service Accounts and Impersonation.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Keyboard Maestro Plugins for the Elgato Stream Deck.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Killed by Google.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Kubernetes  Dynatrace Help.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Latest topics - Keyboard Maestro Discourse.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Learn how to design landing zone architectures with new AWS Control Tower training  Amazon Web Services.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Liljavim-chezmoi Let&amp;39;s you apply files on write to chezmoi.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Link-gh-token Create an installation access token for a GitHub app from your terminal 💻.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Logging - OWASP Cheat Sheet Series.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Login · Orca Security.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/MEMBER ISACS  natlcouncilofisacs.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/MPU Talk.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Maestral.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Mailmate Releases.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Make Obsidian a default app for Markdown files on macOS - Share &amp;amp; showcase - Obsidian Forum.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Manually add the required IAM role to an existing AWS account and enroll it - AWS Control Tower.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Many Tricks · Support.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Map Crunch.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/MariaLettafree-gophers-pack ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language presentations, posts in blogs or social media, courses, videos and many, many more.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/MarkDownload - Markdown Web Clipper.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Mastermindssemver Work with Semantic Versions in Go.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Mathjax basic tutorial and quick reference.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Men&amp;39;s Travel Kit Chino Blazer.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/MichaBruggerobsidian-footnotes Makes creating footnotes in Obsidian more fun!.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Microsoft Account Management.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Microsoft Teams Buttons for Stream Deck to Mute, Share, Hang up, and Manage Cameras.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Migrating a hosted zone to a different AWS account - Amazon Route 53.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Minecraft terrain generation in a nutshell.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/More Software Downloads - Apple Developer.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Movetodon Finds your Twitter Friends on Mastodon.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Multiple Burn Rate Calculator.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/My 60&amp;39;s TV!.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/My favourite Git commit.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/NCR - SECU - State Employees&amp;39; Credit Union (External) - Home.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/NCR Application Security - SWS Application Security - Confluence.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/NCR Centos 7 CIS Benchmark · Compliance · Orca Security.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/NCR CloudFlare Instance.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/NCR D3 Change Request Process.pptx.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/NCR Identity Management.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/NCR Looker.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/NVD - CVSS v3 Calculator.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Netflix categories codes - Find all categories codes.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Network maximum transmission unit (MTU) for your EC2 instance - Amazon Elastic Compute Cloud.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Notable people.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Note Sleeve  Slim Men&amp;39;s Wallets with RFID  Bellroy.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Obsidian Auto Link Title.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Obsidian Forum.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Obsidian for Beginners Start HERE — How to Use the Obsidian App for Notes.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Official Satisfactory Wiki.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Omni Automation and Alfred.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/OmniFocus Plug-Ins.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Online FlowChart &amp;amp; Diagrams Editor - Mermaid Live Editor.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Online regex tester and debugger PHP, PCRE, Python, Golang and JavaScript.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/OpenTofu.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Oracle Linux ISOs  Oracle, Software. Hardware. Complete.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Organising Digital Knowledge Across Multiple Systems.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/PCI DSS v4.0 Resource Hub.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Perspective Icons for OmniFocus 3, by Josh Hughes.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Polished Ball Drop Earrings in 14k White Gold (8mm)  Blue Nile.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Prism.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Professional Cloud Security Engineer Certification  Learn  Google Cloud.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/PromLens - The query builder, analyzer, and explainer for PromQL (1).md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/PromLens - The query builder, analyzer, and explainer for PromQL (2).md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/PromLens - The query builder, analyzer, and explainer for PromQL.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Provisioning access to security and audit teams in an AWS multi-account environment created by AWS Control Tower  Amazon Web Services.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Provisioning self-hosted GitHub Actions runners on demand.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/PublicPrivate Cloud  Fortinet Documentation Library.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/PyCharm Edu Tips &amp;amp; Tricks for Most Efficient Learning, Part II  The PyCharm Blog.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Quick Start - TFSwitch.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Radio Garden.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Rapid Response Team Projects] Issue Navigator - JIRA - SW Shared Services.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Reader API  Readwise.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Reader Filtering Guide.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Refined Storage - Refined Mods.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Release 5.1.8 · kepanoobsidian-minimal.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Renovate Self-Hosted Configuration Options.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Replication between Aurora and MySQL or between Aurora and another Aurora DB cluster (binary log replication) - Amazon Aurora.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Reserved IP addresses - Wikipedia.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/RosemaryOrchardAutomation-Icons.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/SARIF Home.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/SaaS Operations - 2024 Business Continuity - All Documents.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Satisfactory More Milestones +100 Mod Wiki  Fandom.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Satisfactory Tips.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Satisfactory Tools.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Scoop.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Script JQL Functions.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Searching Whois Using a CLI - American Registry for Internet Numbers.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Security Testing and Verification - NCR Secure SDLC - Confluence.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Shargeek Portable Charger, Storm 2 100W 25600mAh Laptop Power Bank, World&amp;39;s First See Through Battery Pack with IPS Screen, DC &amp;amp; 2 USB C &amp;amp; USB Ports for MacBook ProDell XPS, iPadiPhone 13 and More  Cell Phones &amp;amp; Accessories.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Shimmering Obsidia.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Shortcuts Archive.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Sildur&amp;39;s Vibrant shaders.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/SilentVoid13Templater A template plugin for obsidian.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/SteelSeries Nimbus+ Wireless Gaming Controller.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Stream Deck  richday.uk.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Stream Deck Icon Generator.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Stream Deck Icons.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Supercharging GitHub Actions with Job Summaries  The GitHub Blog.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Sync iOS 17 Sleep Alarm to HA - Third party integrations - Home Assistant Community.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/TD Ameritrade Login.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Take your Windows Terminal and PowerShell to the next level with Terminal Icons.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Templates as Inspiration for Engineering Managers and Software Engineers.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Templates for OmniFocus.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Terraform Best Practices.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/The 12 Best Barbecue Restaurants in Metro Atlanta.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/The Definite Guide to Vintage Story.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/The Go Programming Language Specification - The Go Programming Language.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/The Go Programming Language.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/The Movie Database API.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/The Omni Group User Forums.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/The Password Game.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/The Ultimate JQ Tutorial Everything You Need to Know to Parse JSON Like a Pro.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/The Verica Open Incident Database.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Thunderbolt 4  USB4  Element Hub  CalDigit – CalDigit.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Transfer Playlists Between Music Services  Tune My Music.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Transparent Cross-Team Decision Making using RFCs - Patterns - Production.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Troubleshooting OS Login  Compute Engine Documentation  Google Cloud.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/TryHackMe  Cyber Security Training.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Tutorial On How To Develop Slack Bot Using Golang.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/URL Schemes - Inside OmniFocus.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Understanding Semantic Commit Messages Using Git and Angular.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Understanding roles  Cloud IAM Documentation  Google Cloud.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Usage - OpenAI API.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Use AWS Config inventory and compliance dashboards for a unified view of resource inventory and compliance  Amazon Web Services.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Use CloudWatch Logs Insights queries with VPC flow logs.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Use Keyboard Shortcuts  Spark Help Center.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Use This Map to Find the Best of &amp;39;Slow TV&amp;39; From Around the World.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Use bridge networks.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Using VPC Reachability Analyzer to discover network paths across multiple AWS Regions  Amazon Web Services.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/V4.0 Production Readiness Checklist - NCR Global SRE - Confluence.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/VPC-native clusters  Kubernetes Engine Documentation  Google Cloud.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/VaaS Login.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Vanilla Tweaks - Resource Packs.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Vim digraph.txt.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Vim index.txt.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Vintage Story Wiki.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Vinzent03obsidian-advanced-uri.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Visual Subnet Calculator (1).md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Visual Subnet Calculator.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/What Is AWS Control Tower - AWS Control Tower.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/WikipediaManual of Style - Wikipedia.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Working with vim and git.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Workshop Studio.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Write Better Commits, Build Better Projects  The GitHub Blog.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Writing A Great Pull Request Description.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Writing Better Commit Messages.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Wyld&amp;39;s Resource Packs.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/XKPasswd - Secure Memorable Passwords.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Zscaler Config.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/[Preview] README.md — golang-samples [GitHub] — Visual Studio Code — GitHub.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/[SCIM] Satisfactory - Calculator.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/actions-runner-controlleractions-runner-controller Kubernetes controller for GitHub Actions self-hosted runners.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/agkozakzsh-z Jump quickly to directories that you have visited &amp;quot;frecently.&amp;quot; A native ZSH port of z.sh.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/alker0chezmoi.vim Highlight dotfiles you manage with chezmoi.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/angularCONTRIBUTING.md at main · angularangular.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/anpigonobsidian-book-search-plugin Obsidian plugin that automatically creates notes by searching for books.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/ardanlabsgotraining Go Training Class Material.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/athityakumarcolorls A Ruby gem that beautifies the terminal&amp;39;s ls command, with color and font-awesome icons.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/avelinoawesome-go A curated list of awesome Go frameworks, libraries and software.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/aws-sampleshardeneks Runs checks to see if an EKS cluster follows EKS Best Practices.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/aws-samplessso-sync-to-amazon-rds.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/awslabsaws-az-failure-chaostoolkit Custom Chaos Toolkit extension to simulate AZ failurefailover on supported AWS resources.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/catppuccinpowershell 🔌 Soothing pastel theme for PowerShell.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/chezmoi - chezmoi.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/chrisgurneyobsidian-note-toolbar Plugin for Obsidian providing a flexible way to create toolbars for your notes.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/cloudflarecf-terraforming.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/cloudflareterraform-provider-cloudflare Cloudflare Terraform Provider.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/csvkit 1.0.7 — csvkit 1.0.7 documentation.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/dandavisondelta.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/dylanarapsneofetch.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/e-alizadehZotero2Readwise A Python Library to retrieve annotations and notes from Zotero and upload them to your Readwise.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/emoji-cheat-sheetREADME.md at master · ikatyangemoji-cheat-sheet.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/eza-communityeza A modern, maintained replacement for ls.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/fawesome-chatgpt-prompts This repo includes ChatGPT prompt curation to use ChatGPT better.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/gabrielsoltzaws-arn Full AWS ARN list by Services.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/gcloud  Google Cloud CLI Documentation.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/geekofweekhomeassistant Example Home Assistant Configs.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/gennaro-tedescogh-s search github repositories interactively.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/giovannicoppolaalfred-readwise An Alfred Workflow for your Readwise account.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/git-towngit-town.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/gitmoji.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/go-jirajira simple jira command line client in Go.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/go-kitkit A standard library for microservices.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/golang-standardsproject-layout Standard Go Project Layout.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/hansobsidian-citation-plugin at 0.1.3.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/hashicorpaws  Terraform Registry.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/how to change tcp mss in linux.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/httpswww.gstatic.comiprangesgoog.json.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/humanloopawesome-chatgpt Curated list of awesome tools, demos, docs for ChatGPT and GPT-3.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/igorshubovychmarkdownlint-cli MarkdownLint Command Line Interface.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/imrenagigo-oauth2-cli Example Code for doing oauth2 flow by using cliterminal.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/inhumantsarslurp Slurps webpages and saves them as clean, uncluttered Markdown. Think Pocket, but better.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/inspec-gcpgoogle_compute_address.rb at master · inspecinspec-gcp.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/jd-bash-scripts.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/jessfrazdotfiles.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/joelparkerhendersonarchitecture-decision-record Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/junegunnfzf A command-line fuzzy finder.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/kelseyhightowerkubernetes-the-hard-way.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/mcndtobsidian-toggl-integration A Toggl integration plugin for the popular knowledge base application Obsidian.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/mermaid - Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/mm53barobsidian_utils Various scripts and utilities for Obsidian.md.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/mtoppingobsidian-raindrop This plugin allows for basic integration with Raindrop.io, a bookmarking service and Obsidian.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/my TO(DO) and EVER(GREEN) structure - TIM - Obsidian Publish.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/nerdswordsyet-another-cloudwatch-exporter Prometheus exporter for AWS CloudWatch - Discovers services through AWS tags, gets CloudWatch metrics data and provides them as Prometheus metrics with AWS tags as labels.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/obsidian-css-snippetsSnippets at develop · Dmitriy-Shulhaobsidian-css-snippets.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/ohmyzshpluginsaws at master · ohmyzshohmyzsh.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/philips-labsterraform-aws-github-runner Terraform module for scalable GitHub action runners on AWS.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/prometheusjmx_exporter A process for exposing JMX Beans via HTTP for Prometheus consumption.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/qPublic.net - Fulton County, GA - Search.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/quickaddMacro_MovieAndSeriesScript.md at master · chhoumannquickadd.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/quiilearn-go-with-tests Learn Go with test-driven development.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/rkubernetes - How did you really master Kubernetes.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/sdsovercommit.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/slack-send - GitHub Marketplace.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/spf13cobra A Commander for modern Go CLI interactions.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/stretchrtestify A toolkit with common assertions and mocks that plays nicely with the standard library.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/telegrafpluginsoutputsprometheus_client at master · influxdatatelegraf.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/terraform-aws-modulesterraform-aws-eks Terraform module to create AWS Elastic Kubernetes (EKS) resources 🇺🇦.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/terraform-aws-modulesterraform-aws-rds-aurora TTerraform module to create AWS RDS Aurora resources 🇺🇦.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/terraform-aws-modulesterraform-aws-transit-gateway Terraform module to create AWS Transit Gateway resources 🇺🇦.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/terraform-aws-modulesterraform-aws-vpc Terraform module to create AWS VPC resources 🇺🇦.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/terraform-aws-modulesterraform-aws-vpn-gateway Terraform module to create AWS VPN gateway resources 🇺🇦.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/terraform-docs.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/terraform-google-modulesterraform-google-project-factory Opinionated Google Cloud Platform project creation and configuration with Shared VPC, IAM, APIs, etc.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/terraform-provider-mongodbatlasexamples at master · mongodbterraform-provider-mongodbatlas.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/tjluomaicalbuddy-km-and-stream-deck.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/tmrtsgo-patterns Curated list of Go design patterns, recipes and idioms.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/trimstraythe-book-of-secret-knowledge.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/weaveworkskubediff Kubediff a tool for Kubernetes to show differences between running state and version controlled configuration.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/zolrathobsidian-auto-link-title Automatically fetch the titles of pasted links.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/📜️ Zotero Research Paper Workflow  Full Comprehensive Setup Guide 🛠️ — BRYAN JENKS.md
+00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/🔥 Miniflare.md
+00-09 System/02 Journal/02.01 Daily/2024/06/2024-06-08.md
+60-69 Professional/61 Projects/61.11 Obtain AWS Certified Security - Specialty Certification/AWS Certified Solutions Architect - Associate (SAA-C03).md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#54a68cf</div>
                                         <div class="message">docs: backups vault content - 2024-06-08 15:10
 
@@ -1125,67 +1594,6 @@ Affected files:
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e000c58</div>
-                                        <div class="message">docs: backups vault content - 2024-06-08 12:40
-
-Total files changed: 10
-
-Affected files:
-.obsidian/plugins/obsidian-banners/data.json
-.obsidian/plugins/readwise-official/data.json
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-00-09 System/01 Inbox/01.01 Readwise/Article/The Ultimate JQ Tutorial Everything You Need to Know to Parse JSON Like a Pro by youtube.com.md
-00-09 System/02 Journal/02.01 Daily/2024/06/2024-06-08.md
-00-09 System/02 Journal/02.03 Monthly/2024/2024-05.md
-00-09 System/05 Templates/05.01 Obsidian Templates/Journal.Daily.md
-00-09 System/05 Templates/05.05 Banner Images/index.jpg
-50-59 Personal/50 Personal System/50.01 Arete/50.01 Arete.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cd525dd</div>
-                                        <div class="message">docs: backups vault content - 2024-06-08 12:10
-
-Total files changed: 3
-
-Affected files:
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-00-09 System/02 Journal/02.01 Daily/2024/06/2024-06-08.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1241,7 +1649,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jun 2024, 16:06:48 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Jun 2024, 17:06:50 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
