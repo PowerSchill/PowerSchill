@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sylumer/automators</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Obsidian Vault for Automators Podcast</div>
@@ -629,6 +629,72 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">PowerSchill/dotfiles</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8b44075</div>
+                                        <div class="message">Add home/Library/Application Support/Marked/Custom CSS/Resolute.css</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/dotfiles</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#838a677</div>
+                                        <div class="message">Add home/Library/Application Support/Marked/Custom CSS/GitHub+Updated.css</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/dotfiles</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5dc861d</div>
+                                        <div class="message">Update home/.chezmoi.yaml
+Add home/.chezmoidata/packages.yaml
+Remove home/.chezmoiignore
+Add home/.chezmoiignore
+Remove home/.chezmoiscripts/darwin/install-packages.sh
+Add home/.chezmoiscripts/darwin/darwin-install-packages.sh
+Add home/Library/Application Support/Marked/Custom CSS/Academia.css</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">PowerSchill/Obsidian_Personal_System</span>
                                     </div>
                                 </div>
@@ -681,96 +747,6 @@ Add home/.config/conductor/scripts/lib/settings.rb
 Add home/.config/conductor/scripts/lib/string.rb
 Add home/.config/conductor/scripts/lib/util.rb
 Update home/.config/conductor/tracks.yaml</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7100b25</div>
-                                        <div class="message">docs: backups vault content - 2024-07-02 20:34
-
-Total files changed: 16
-
-Affected files:
-.obsidian/plugins/obsidian-raindrop-highlights/data.json
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-00-09 System/01 Inbox/01.03 Raindrop/All bookmarks/Visual Subnet Calculator (2).md
-00-09 System/01 Inbox/01.03 Raindrop/Personal/40-49 Technology/41.04 Software Bookmarks/Embedding JavaScript (e.g. Mermaid).md
-00-09 System/05 Templates/05.05 Banner Images/index.jpg
-40-49 Technology/41 Software/41 Software.md
-40-49 Technology/41 Software/41.10 Keyboard Maestro.md
-40-49 Technology/41 Software/41.13 Marked/41.13 Marked.md
-40-49 Technology/41 Software/41.14 Alfred.md
-40-49 Technology/41 Software/41.20 tmux.md
-40-49 Technology/41 Software/41.33 Visual Studio Code.md
-40-49 Technology/41 Software/41.34 Goland.md
-40-49 Technology/41 Software/41.35 Pixelmator Pro.md
-40-49 Technology/41 Software/41.36 Sublime Text.md
-40-49 Technology/41 Software/42.02 git.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3111988</div>
-                                        <div class="message">docs: backups vault content - 2024-07-02 20:04
-
-Total files changed: 1
-
-Affected files:
-.obsidian/plugins/readwise-official/data.json</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#af7f481</div>
-                                        <div class="message">docs: backups vault content - 2024-07-02 19:19
-
-Total files changed: 420
-
-Affected files:
-Too many files to list</div>
                                     </div>
                                 </div>
                             </section>
@@ -830,7 +806,7 @@ Too many files to list</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jul 2024, 17:07:13 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jul 2024, 18:07:11 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
