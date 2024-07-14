@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1656" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1672" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4089 Commits
+                            4095 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -382,7 +382,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        32
+                                        33
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -635,6 +635,161 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#5f45abd</div>
+                                        <div class="message">docs: backups vault content - 2024-07-14 15:47
+
+Total files changed: 5
+
+Affected files:
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+00-09 System/02 Journal/02.01 Daily/2024/07/2024-07-14.md
+00-09 System/02 Journal/02.02 Weekly/2024/2024-W28.md
+30-39 Entertainment/34 Games/34.22 ATM9 To The Sky/23.21 AE2 Chandelier.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bdbe8c5</div>
+                                        <div class="message">docs: backups vault content - 2024-07-14 15:17
+
+Total files changed: 6
+
+Affected files:
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+00-09 System/02 Journal/02.01 Daily/2024/07/2024-07-14.md
+00-09 System/02 Journal/02.04 Quarterly/2024/2024-Q3.md
+30-39 Entertainment/34 Games/34.22 ATM9 To The Sky/23.21 AE2 Chandelier.md
+30-39 Entertainment/34 Games/34.22 ATM9 To The Sky/34.22 ATM9 To The Sky.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3e09702</div>
+                                        <div class="message">docs: backups vault content - 2024-07-14 14:47
+
+Total files changed: 88
+
+Affected files:
+.obsidian/plugins/readwise-official/data.json
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+00-09 System/02 Journal/02.01 Daily/2024/07/2024-07-13.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1962/1962.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1962/Dr. No (1962).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1963/1963.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1963/From Russia with Love (1963).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1965/1965.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1965/Thunderball (1965).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1967/1967.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1967/Casino Royale (1967).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1967/You Only Live Twice (1967).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1969/1969.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1969/On Her Majesty's Secret Service (1969).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1971/1971.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1971/Diamonds Are Forever (1971).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1973/1973.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1973/Live and Let Die (1973).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1974/1974.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1974/The Man with the Golden Gun (1974).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1977/1977.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1977/The Spy Who Loved Me (1977).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1979/1979.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1979/Moonraker (1979).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1981/1981.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1981/For Your Eyes Only (1981).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1983/1983.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1983/Never Say Never Again (1983).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1983/Octopussy (1983).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1985/1985.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1985/A View to a Kill (1985).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1987/1987.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1987/The Living Daylights (1987).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1989/1989.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1989/Licence to Kill (1989).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1995/1995.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1995/GoldenEye (1995).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1995/The Usual Suspects (1995).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1997/1997.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1997/Tomorrow Never Dies (1997).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1999/1999.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1999/The Matrix (1999).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1999/The Sixth Sense (1999).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/1999/The World Is Not Enough (1999).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2000/2000.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2000/Unbreakable (2000).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2001/2001.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2001/A Beautiful Mind (2001).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2002/2002.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2002/Die Another Day (2002).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2006/2006.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2006/Casino Royale (2006).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2006/The Illusionist (2006).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2008/2008.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2008/Iron Man (2008).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2008/Quantum of Solace (2008).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2008/The Dark Knight (2008).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2010/2010.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2010/Inception (2010).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2010/Scott Pilgrim vs. the World (2010).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2011/2011.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2011/Captain America - The First Avenger (2011).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2012/2012.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2012/Skyfall (2012).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2015/2015.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2015/Inside Out (2015).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2016/2016.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2016/Warcraft (2016).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2017/2017.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2017/Blade Runner 2049 (2017).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2019/2019.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2019/Joker (2019).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2022/2022.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2022/Everything Everywhere All at Once (2022).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2023/2023.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2023/Godzilla Minus One (2023).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2023/Indiana Jones and the Dial of Destiny (2023).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2023/Rebel Moon – Part One - A Child of Fire (2023).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2023/The Boys in the Boat (2023).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2024/2024.md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2024/Beverly Hills Cop - Axel F (2024).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2024/Dune - Part Two (2024).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2024/Godzilla × Kong - The New Empire (2024).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2024/MoviePass, MovieCrash (2024).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2024/Rebel Moon – Part Two - The Scargiver (2024).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/2024/The Beekeeper (2024).md
+30-39 Entertainment/33 Movies/33.03 Letterboxd/33.03 Letterboxd.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#53ab95e</div>
                                         <div class="message">docs: backups vault content - 2024-07-13 20:36
 
@@ -700,61 +855,6 @@ Affected files:
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3b3ff50</div>
-                                        <div class="message">docs: backups vault content - 2024-07-13 12:58
-
-Total files changed: 3
-
-Affected files:
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-20-29 Finances/25 Vehicles/25.11 2017 Honda CR-V/25.11 2017 Honda CR-V.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7d4d892</div>
-                                        <div class="message">docs: backups vault content - 2024-07-13 12:28
-
-Total files changed: 4
-
-Affected files:
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-00-09 System/02 Journal/02.01 Daily/2024/07/2024-07-13.md
-00-09 System/02 Journal/02.02 Weekly/2024/2024-W28.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -810,7 +910,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jul 2024, 15:06:51 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Jul 2024, 16:07:00 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
