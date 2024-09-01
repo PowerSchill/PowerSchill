@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4599 Commits
+                            4609 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -629,8 +629,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6da4aaa</div>
-                                        <div class="message">chore: adds more functionality for Windows</div>
+                                        <div class="sha">#bc20a3a</div>
+                                        <div class="message">fix: windows path replacement</div>
                                     </div>
                                 </div>
                             </section>
@@ -649,8 +649,33 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c84b5fd</div>
-                                        <div class="message">chore: working with Windows</div>
+                                        <div class="sha">#4d67f4f</div>
+                                        <div class="message">chore: more windows testing and fixing</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1779ff8</div>
+                                        <div class="message">docs: backups vault content - 2024-09-01 11:37
+
+Total files changed: 1
+
+Affected files:
+.obsidian/plugins/recent-files-obsidian/data.json</div>
                                     </div>
                                 </div>
                             </section>
@@ -669,8 +694,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ba832ce</div>
-                                        <div class="message">updates</div>
+                                        <div class="sha">#3b49e3d</div>
+                                        <div class="message">chore: More windows updates</div>
                                     </div>
                                 </div>
                             </section>
@@ -683,34 +708,23 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">PowerSchill/dotfiles</span>
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4dd9583</div>
-                                        <div class="message">updates</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/dotfiles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e9174b8</div>
-                                        <div class="message">updtesd</div>
+                                        <div class="sha">#e44d4ea</div>
+                                        <div class="message">docs: backups vault content - 2024-09-01 11:07
+
+Total files changed: 5
+
+Affected files:
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+00-09 System/02 Journal/02.01 Daily/2024/09/09.md
+00-09 System/02 Journal/02.01 Daily/2024/09/2024-09-01.md
+30-39 Entertainment/35 Podcasts/35.02 Show Notes/AppStories+/AppStories+ - The Future of Apps.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -770,7 +784,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Sept 2024, 11:06:50 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Sept 2024, 12:07:02 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
