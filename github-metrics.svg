@@ -33,17 +33,17 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4692 Commits
+                            4694 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -629,6 +629,74 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#4ff9d98</div>
+                                        <div class="message">docs: backups vault content - 2024-09-07 19:30
+
+Total files changed: 44
+
+Affected files:
+.obsidian/plugins/readwise-official/data.json
+00-09 System/01 Inbox/01.01 Readwise/Article/AVL Tree - Wikipedia by en.wikipedia.org.md
+00-09 System/01 Inbox/01.01 Readwise/Article/Assigning Pods to Nodes by kubernetes.io.md
+00-09 System/01 Inbox/01.01 Readwise/Article/Best Practices for Running Active Directory on Google Cloud by cloud.google.com.md
+00-09 System/01 Inbox/01.01 Readwise/Article/Breadth-First Search - Wikipedia by en.wikipedia.org.md
+00-09 System/01 Inbox/01.01 Readwise/Article/Command Palette Beta  GitHub Changelog by github.blog.md
+00-09 System/01 Inbox/01.01 Readwise/Article/Eli Lilly Drug Shown to Slow Alzheimer’s Progression by Clive Cookson, Financial Times.md
+00-09 System/01 Inbox/01.01 Readwise/Article/GitOps - Frequently Asked Questions by weave.works.md
+00-09 System/01 Inbox/01.01 Readwise/Article/Google - Site Reliability Engineering by sre.google.md
+00-09 System/01 Inbox/01.01 Readwise/Article/Google Cloud Storage Best Practices How to Help Ensure Data Privacy and Security  Google Cloud Blog by cloud.google.com.md
+00-09 System/01 Inbox/01.01 Readwise/Article/Hash Table - Wikipedia by en.wikipedia.org.md
+00-09 System/01 Inbox/01.01 Readwise/Article/Heap (Data Structure) - Wikipedia by en.wikipedia.org.md
+00-09 System/01 Inbox/01.01 Readwise/Article/Heapsort - Wikipedia by en.wikipedia.org.md
+00-09 System/01 Inbox/01.01 Readwise/Article/Highlights From en.wikipedia.org by en.wikipedia.org-2.md
+00-09 System/01 Inbox/01.01 Readwise/Article/Highlights From en.wikipedia.org by en.wikipedia.org-3.md
+00-09 System/01 Inbox/01.01 Readwise/Article/Highlights From en.wikipedia.org by en.wikipedia.org.md
+00-09 System/01 Inbox/01.01 Readwise/Article/How to Actually Use What You Read With Readwise by blog.readwise.io.md
+00-09 System/01 Inbox/01.01 Readwise/Article/How to Authenticate Service Accounts to Help Keep Applications Secure  Google Cloud Blog by cloud.google.com.md
+00-09 System/01 Inbox/01.01 Readwise/Article/How to Combine Highlights on-the-Fly With Concatenation in Readwise by blog.readwise.io.md
+00-09 System/01 Inbox/01.01 Readwise/Article/How to Take Smart Notes in Obsidian - The Knowledge Worker by Josh Duffney.md
+00-09 System/01 Inbox/01.01 Readwise/Article/How to Write a Software Requirements Specification (SRS Document)  Perforce Software by perforce.com.md
+00-09 System/01 Inbox/01.01 Readwise/Article/Lessons Learned in Incident Management by Joey Beyda.md
+00-09 System/01 Inbox/01.01 Readwise/Article/Merge Sort - Wikipedia by en.wikipedia.org.md
+00-09 System/01 Inbox/01.01 Readwise/Article/Merge Sort by From Wikipedia, the free.md
+00-09 System/01 Inbox/01.01 Readwise/Article/My Obsidian Setup, Part 1 Sync, Core Plugins, Workspaces, and Other Settings by club.macstories.net.md
+00-09 System/01 Inbox/01.01 Readwise/Article/OKRs Objectives and Key Results  Atlassian by atlassian.com.md
+00-09 System/01 Inbox/01.01 Readwise/Article/PCI DSS 4.0 Is Here What You Need to Consider  the State of Security by .post-footer.md
+00-09 System/01 Inbox/01.01 Readwise/Article/Radix Sort - Wikipedia by en.wikipedia.org.md
+00-09 System/01 Inbox/01.01 Readwise/Article/SRE Doesn’t Scale by bravenewgeek.com.md
+00-09 System/01 Inbox/01.01 Readwise/Article/Taints and Tolerations by kubernetes.io.md
+00-09 System/01 Inbox/01.01 Readwise/Article/The Chaos Engineering Book – Verica by verica.io.md
+00-09 System/01 Inbox/01.01 Readwise/Article/The Zen of Python by ..md
+00-09 System/01 Inbox/01.01 Readwise/Article/Time-Restricted Dieting Can Lead to Weight Loss, Lower Blood Pressure by ajc.com.md
+00-09 System/01 Inbox/01.01 Readwise/Article/When NASA’s Moon Rocket Sprang a Fuel Leak, the Launch Team Called in the ‘Red Crew.’ by New York Times.md
+00-09 System/01 Inbox/01.01 Readwise/Article/Your (Seriously Simple) Guide to OKRs  Team Central by atlassian.com.md
+00-09 System/01 Inbox/01.01 Readwise/Book/Algorithms by Sanjoy Dasgupta, Christos Papadimitriou, Umesh Vazirani.md
+00-09 System/01 Inbox/01.01 Readwise/Book/Eleventh Hour CISSP by Eric Conrad, Seth Misenar, and Joshua Feldman.md
+00-09 System/01 Inbox/01.01 Readwise/Book/Engineering a Compiler by Keith Cooper, Linda Torczon.md
+00-09 System/01 Inbox/01.01 Readwise/Book/Operating System Concepts by Abraham Silberschatz.md
+00-09 System/01 Inbox/01.01 Readwise/Book/Practical Vim by Drew Neil.md
+00-09 System/01 Inbox/01.01 Readwise/Book/Pro Puppet by Spencer Krum, William Van Hevelingen, Ben Kero, James Turnbull, and Jeffrey McCune.md
+00-09 System/01 Inbox/01.01 Readwise/Book/Scrum Primer V2.9 - For Release by Bas Vodde.md
+00-09 System/01 Inbox/01.01 Readwise/Book/The Art of Debugging With GDB, DDD, and Eclipse by Norman Matloff, Peter Jay Salzman.md
+00-09 System/01 Inbox/01.01 Readwise/Book/User Stories Applied by Mike Cohn.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#94453a4</div>
                                         <div class="message">docs: backups vault content - 2024-09-07 18:14
 
@@ -972,26 +1040,6 @@ Affected files:
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/dotfiles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4dc016e</div>
-                                        <div class="message">Update home/.zshrc</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1047,7 +1095,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Sept 2024, 19:06:55 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Sept 2024, 20:31:18 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
