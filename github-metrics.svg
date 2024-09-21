@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.label,.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;border-radius:32px;font-size:12px}.label.label-flex{display:flex;align-items:center}.label .label-right{font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category,.label .label-right{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text,.gauge text.secondary{fill:currentColor;font-family:monospace;text-anchor:middle}.gauge text{font-size:40px;font-weight:600}.gauge text.secondary{font-size:25px}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.leetcode .easy.gauge .gauge-arc{color:#2cbb5d}.leetcode .medium.gauge .gauge-arc{color:#ffc01e}.leetcode .hard.gauge .gauge-arc{color:#ef4743}.leetcode .all.gauge .gauge-arc{color:#ffa116}.leetcode{align-items:flex-start}.leetcode .infos{margin-bottom:3px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.label,.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;border-radius:32px;font-size:12px}.label.label-flex{display:flex;align-items:center}.label .label-right{font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category,.label .label-right{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text,.gauge text.secondary{fill:currentColor;font-family:monospace;text-anchor:middle}.gauge text{font-size:40px;font-weight:600}.gauge text.secondary{font-size:25px}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.leetcode .easy.gauge .gauge-arc{color:#2cbb5d}.leetcode .medium.gauge .gauge-arc{color:#ffc01e}.leetcode .hard.gauge .gauge-arc{color:#ef4743}.leetcode .all.gauge .gauge-arc{color:#ffa116}.leetcode{align-items:flex-start}.leetcode .infos{margin-bottom:3px}.leetcode .infos .date{font-size:10px;color:#666}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4979 Commits
+                            4985 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -622,6 +622,366 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/dotfiles</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1fd7146</div>
+                                        <div class="message">updates</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#01f8aff</div>
+                                        <div class="message">docs: backups vault content - 2024-09-21 14:37
+
+Total files changed: 2
+
+Affected files:
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/dotfiles</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7b7d13c</div>
+                                        <div class="message">Update home/.chezmoidata/packages.yaml
+Add home/.config/cheat/cheatsheets/community/7z
+Add home/.config/cheat/cheatsheets/community/ab
+Add home/.config/cheat/cheatsheets/community/acl
+Add home/.config/cheat/cheatsheets/community/ag
+Add home/.config/cheat/cheatsheets/community/alias
+Add home/.config/cheat/cheatsheets/community/ansi
+Add home/.config/cheat/cheatsheets/community/ansible
+Add home/.config/cheat/cheatsheets/community/ansible-galaxy
+Add home/.config/cheat/cheatsheets/community/ansible-vault
+Add home/.config/cheat/cheatsheets/community/apachectl
+Add home/.config/cheat/cheatsheets/community/apk
+Add home/.config/cheat/cheatsheets/community/apparmor
+Add home/.config/cheat/cheatsheets/community/apt
+Add home/.config/cheat/cheatsheets/community/apt-cache
+Add home/.config/cheat/cheatsheets/community/apt-get
+Add home/.config/cheat/cheatsheets/community/aptitude
+Add home/.config/cheat/cheatsheets/community/aria2c
+Add home/.config/cheat/cheatsheets/community/asciiart
+Add home/.config/cheat/cheatsheets/community/asciidoctor
+Add home/.config/cheat/cheatsheets/community/asterisk
+Add home/.config/cheat/cheatsheets/community/at
+Add home/.config/cheat/cheatsheets/community/auditd
+Add home/.config/cheat/cheatsheets/community/awk
+Add home/.config/cheat/cheatsheets/community/bash
+Add home/.config/cheat/cheatsheets/community/bat
+Add home/.config/cheat/cheatsheets/community/black
+Add home/.config/cheat/cheatsheets/community/bosh
+Add home/.config/cheat/cheatsheets/community/bower
+Add home/.config/cheat/cheatsheets/community/brew
+Add home/.config/cheat/cheatsheets/community/bzip2
+Add home/.config/cheat/cheatsheets/community/cat
+Add home/.config/cheat/cheatsheets/community/cd
+Add home/.config/cheat/cheatsheets/community/cheat
+Add home/.config/cheat/cheatsheets/community/chmod
+Add home/.config/cheat/cheatsheets/community/chown
+Add home/.config/cheat/cheatsheets/community/cmp
+Add home/.config/cheat/cheatsheets/community/comm
+Add home/.config/cheat/cheatsheets/community/conda
+Add home/.config/cheat/cheatsheets/community/convert
+Add home/.config/cheat/cheatsheets/community/cp
+Add home/.config/cheat/cheatsheets/community/cpan
+Add home/.config/cheat/cheatsheets/community/cpanm
+Add home/.config/cheat/cheatsheets/community/cpdf
+Add home/.config/cheat/cheatsheets/community/cpio
+Add home/.config/cheat/cheatsheets/community/crontab
+Add home/.config/cheat/cheatsheets/community/cryptsetup
+Add home/.config/cheat/cheatsheets/community/csplit
+Add home/.config/cheat/cheatsheets/community/cups
+Add home/.config/cheat/cheatsheets/community/curl
+Add home/.config/cheat/cheatsheets/community/cut
+Add home/.config/cheat/cheatsheets/community/date
+Add home/.config/cheat/cheatsheets/community/dd
+Add home/.config/cheat/cheatsheets/community/deb
+Add home/.config/cheat/cheatsheets/community/df
+Add home/.config/cheat/cheatsheets/community/dhclient
+Add home/.config/cheat/cheatsheets/community/diff
+Add home/.config/cheat/cheatsheets/community/distcc
+Add home/.config/cheat/cheatsheets/community/distrobox
+Add home/.config/cheat/cheatsheets/community/dnf
+Add home/.config/cheat/cheatsheets/community/docker
+Add home/.config/cheat/cheatsheets/community/docker-compose
+Add home/.config/cheat/cheatsheets/community/.git/HEAD
+Add home/.config/cheat/cheatsheets/community/.git/config
+Add home/.config/cheat/cheatsheets/community/.git/index
+Add home/.config/cheat/cheatsheets/community/.git/objects/info/.keep
+Add home/.config/cheat/cheatsheets/community/.git/objects/pack/pack-f8548529ad23a85005fbc69bf526d507920a54b4.idx
+Add home/.config/cheat/cheatsheets/community/.git/objects/pack/pack-f8548529ad23a85005fbc69bf526d507920a54b4.pack
+Add home/.config/cheat/cheatsheets/community/.git/refs/heads/master
+Add home/.config/cheat/cheatsheets/community/.git/refs/remotes/origin/ThirdScript-master
+Add home/.config/cheat/cheatsheets/community/.git/refs/remotes/origin/master
+Add home/.config/cheat/cheatsheets/community/.git/refs/tags/.keep
+Add home/.config/cheat/cheatsheets/community/.git/shallow
+Add home/.config/cheat/cheatsheets/community/.github/LICENSE.txt
+Add home/.config/cheat/cheatsheets/community/.github/README.md
+Add home/.config/cheat/cheatsheets/community/dpkg
+Add home/.config/cheat/cheatsheets/community/du
+Add home/.config/cheat/cheatsheets/community/dwm
+Add home/.config/cheat/cheatsheets/community/ed
+Add home/.config/cheat/cheatsheets/community/emacs
+Add home/.config/cheat/cheatsheets/community/env
+Add home/.config/cheat/cheatsheets/community/ethtool
+Add home/.config/cheat/cheatsheets/community/exiftool
+Add home/.config/cheat/cheatsheets/community/export
+Add home/.config/cheat/cheatsheets/community/fd
+Add home/.config/cheat/cheatsheets/community/ffmpeg
+Add home/.config/cheat/cheatsheets/community/find
+Add home/.config/cheat/cheatsheets/community/firewall-cmd
+Add home/.config/cheat/cheatsheets/community/fkill
+Add home/.config/cheat/cheatsheets/community/fmt
+Add home/.config/cheat/cheatsheets/community/for
+Add home/.config/cheat/cheatsheets/community/fzf
+Add home/.config/cheat/cheatsheets/community/gcc
+Add home/.config/cheat/cheatsheets/community/gdb
+Add home/.config/cheat/cheatsheets/community/gem
+Add home/.config/cheat/cheatsheets/community/gh
+Add home/.config/cheat/cheatsheets/community/git
+Add home/.config/cheat/cheatsheets/community/go
+Add home/.config/cheat/cheatsheets/community/gpg
+Add home/.config/cheat/cheatsheets/community/gradle
+Add home/.config/cheat/cheatsheets/community/grep
+Add home/.config/cheat/cheatsheets/community/gs
+Add home/.config/cheat/cheatsheets/community/guix-shell
+Add home/.config/cheat/cheatsheets/community/gyb
+Add home/.config/cheat/cheatsheets/community/gzip
+Add home/.config/cheat/cheatsheets/community/hardware-info
+Add home/.config/cheat/cheatsheets/community/head
+Add home/.config/cheat/cheatsheets/community/hg
+Add home/.config/cheat/cheatsheets/community/history
+Add home/.config/cheat/cheatsheets/community/http
+Add home/.config/cheat/cheatsheets/community/hub
+Add home/.config/cheat/cheatsheets/community/iconv
+Add home/.config/cheat/cheatsheets/community/ifconfig
+Add home/.config/cheat/cheatsheets/community/indent
+Add home/.config/cheat/cheatsheets/community/install
+Add home/.config/cheat/cheatsheets/community/ip
+Add home/.config/cheat/cheatsheets/community/iptables
+Add home/.config/cheat/cheatsheets/community/irssi
+Add home/.config/cheat/cheatsheets/community/iwconfig
+Add home/.config/cheat/cheatsheets/community/jar
+Add home/.config/cheat/cheatsheets/community/java
+Add home/.config/cheat/cheatsheets/community/javac
+Add home/.config/cheat/cheatsheets/community/jbang
+Add home/.config/cheat/cheatsheets/community/jobs
+Add home/.config/cheat/cheatsheets/community/journalctl
+Add home/.config/cheat/cheatsheets/community/jq
+Add home/.config/cheat/cheatsheets/community/jrnl
+Add home/.config/cheat/cheatsheets/community/kill
+Add home/.config/cheat/cheatsheets/community/kitty
+Add home/.config/cheat/cheatsheets/community/kubectl
+Add home/.config/cheat/cheatsheets/community/less
+Add home/.config/cheat/cheatsheets/community/lib
+Add home/.config/cheat/cheatsheets/community/ln
+Add home/.config/cheat/cheatsheets/community/ls
+Add home/.config/cheat/cheatsheets/community/lsblk
+Add home/.config/cheat/cheatsheets/community/lsof
+Add home/.config/cheat/cheatsheets/community/lvm
+Add home/.config/cheat/cheatsheets/community/man
+Add home/.config/cheat/cheatsheets/community/markdown
+Add home/.config/cheat/cheatsheets/community/maven
+Add home/.config/cheat/cheatsheets/community/mdadm
+Add home/.config/cheat/cheatsheets/community/minikube
+Add home/.config/cheat/cheatsheets/community/mkdir
+Add home/.config/cheat/cheatsheets/community/more
+Add home/.config/cheat/cheatsheets/community/mount
+Add home/.config/cheat/cheatsheets/community/multipass
+Add home/.config/cheat/cheatsheets/community/mutt
+Add home/.config/cheat/cheatsheets/community/mv
+Add home/.config/cheat/cheatsheets/community/mysql
+Add home/.config/cheat/cheatsheets/community/mysqldump
+Add home/.config/cheat/cheatsheets/community/nc
+Add home/.config/cheat/cheatsheets/community/ncat
+Add home/.config/cheat/cheatsheets/community/ncdu
+Add home/.config/cheat/cheatsheets/community/netstat
+Add home/.config/cheat/cheatsheets/community/nft
+Add home/.config/cheat/cheatsheets/community/nkf
+Add home/.config/cheat/cheatsheets/community/nmap
+Add home/.config/cheat/cheatsheets/community/nmcli
+Add home/.config/cheat/cheatsheets/community/notify-send
+Add home/.config/cheat/cheatsheets/community/nova
+Add home/.config/cheat/cheatsheets/community/npm
+Add home/.config/cheat/cheatsheets/community/ntp
+Add home/.config/cheat/cheatsheets/community/numfmt
+Add home/.config/cheat/cheatsheets/community/od
+Add home/.config/cheat/cheatsheets/community/openssl
+Add home/.config/cheat/cheatsheets/community/org-mode
+Add home/.config/cheat/cheatsheets/community/p4
+Add home/.config/cheat/cheatsheets/community/pacman
+Add home/.config/cheat/cheatsheets/community/pactl
+Add home/.config/cheat/cheatsheets/community/pandoc
+Add home/.config/cheat/cheatsheets/community/pass
+Add home/.config/cheat/cheatsheets/community/paste
+Add home/.config/cheat/cheatsheets/community/patch
+Add home/.config/cheat/cheatsheets/community/pdftk
+Add home/.config/cheat/cheatsheets/community/perl
+Add home/.config/cheat/cheatsheets/community/perlbrew
+Add home/.config/cheat/cheatsheets/community/perldoc
+Add home/.config/cheat/cheatsheets/community/pgrep
+Add home/.config/cheat/cheatsheets/community/php
+Add home/.config/cheat/cheatsheets/community/ping
+Add home/.config/cheat/cheatsheets/community/ping6
+Add home/.config/cheat/cheatsheets/community/pip
+Add home/.config/cheat/cheatsheets/community/pkcon
+Add home/.config/cheat/cheatsheets/community/pkgtools
+Add home/.config/cheat/cheatsheets/community/pkill
+Add home/.config/cheat/cheatsheets/community/plenv
+Add home/.config/cheat/cheatsheets/community/podman
+Add home/.config/cheat/cheatsheets/community/poetry
+Add home/.config/cheat/cheatsheets/community/popd
+Add home/.config/cheat/cheatsheets/community/port
+Add home/.config/cheat/cheatsheets/community/ps
+Add home/.config/cheat/cheatsheets/community/psql
+Add home/.config/cheat/cheatsheets/community/pushd
+Add home/.config/cheat/cheatsheets/community/pwd
+Add home/.config/cheat/cheatsheets/community/pyenv
+Add home/.config/cheat/cheatsheets/community/python
+Add home/.config/cheat/cheatsheets/community/quickemu
+Add home/.config/cheat/cheatsheets/community/quickget
+Add home/.config/cheat/cheatsheets/community/r2
+Add home/.config/cheat/cheatsheets/community/rcs
+Add home/.config/cheat/cheatsheets/community/readline
+Add home/.config/cheat/cheatsheets/community/reboot
+Add home/.config/cheat/cheatsheets/community/rename
+Add home/.config/cheat/cheatsheets/community/rm
+Add home/.config/cheat/cheatsheets/community/rmdir
+Add home/.config/cheat/cheatsheets/community/route
+Add home/.config/cheat/cheatsheets/community/rpm
+Add home/.config/cheat/cheatsheets/community/rpm2cpio
+Add home/.config/cheat/cheatsheets/community/rss2email
+Add home/.config/cheat/cheatsheets/community/rsync
+Add home/.config/cheat/cheatsheets/community/ruby
+Add home/.config/cheat/cheatsheets/community/salt
+Add home/.config/cheat/cheatsheets/community/sam2p
+Add home/.config/cheat/cheatsheets/community/sar
+Add home/.config/cheat/cheatsheets/community/scd
+Add home/.config/cheat/cheatsheets/community/scp
+Add home/.config/cheat/cheatsheets/community/screen
+Add home/.config/cheat/cheatsheets/community/sed
+Add home/.config/cheat/cheatsheets/community/selinux
+Add home/.config/cheat/cheatsheets/community/sha256sum
+Add home/.config/cheat/cheatsheets/community/shred
+Add home/.config/cheat/cheatsheets/community/shutdown
+Add home/.config/cheat/cheatsheets/community/slurm
+Add home/.config/cheat/cheatsheets/community/smbclient
+Add home/.config/cheat/cheatsheets/community/snap
+Add home/.config/cheat/cheatsheets/community/snmpwalk
+Add home/.config/cheat/cheatsheets/community/socat
+Add home/.config/cheat/cheatsheets/community/sockstat
+Add home/.config/cheat/cheatsheets/community/sort
+Add home/.config/cheat/cheatsheets/community/split
+Add home/.config/cheat/cheatsheets/community/sport
+Add home/.config/cheat/cheatsheets/community/sqlite3
+Add home/.config/cheat/cheatsheets/community/sqlmap
+Add home/.config/cheat/cheatsheets/community/ss
+Add home/.config/cheat/cheatsheets/community/ssh
+Add home/.config/cheat/cheatsheets/community/ssh-add
+Add home/.config/cheat/cheatsheets/community/ssh-copy-id
+Add home/.config/cheat/cheatsheets/community/ssh-keygen
+Add home/.config/cheat/cheatsheets/community/stdout
+Add home/.config/cheat/cheatsheets/community/strace
+Add home/.config/cheat/cheatsheets/community/su
+Add home/.config/cheat/cheatsheets/community/sudo
+Add home/.config/cheat/cheatsheets/community/svn
+Add home/.config/cheat/cheatsheets/community/systemctl
+Add home/.config/cheat/cheatsheets/community/systemd
+Add home/.config/cheat/cheatsheets/community/tail
+Add home/.config/cheat/cheatsheets/community/tar
+Add home/.config/cheat/cheatsheets/community/tarsnap
+Add home/.config/cheat/cheatsheets/community/tcpdump
+Add home/.config/cheat/cheatsheets/community/tee
+Add home/.config/cheat/cheatsheets/community/terraform
+Add home/.config/cheat/cheatsheets/community/tidy
+Add home/.config/cheat/cheatsheets/community/timedatectl
+Add home/.config/cheat/cheatsheets/community/tmux
+Add home/.config/cheat/cheatsheets/community/top
+Add home/.config/cheat/cheatsheets/community/touch
+Add home/.config/cheat/cheatsheets/community/tr
+Add home/.config/cheat/cheatsheets/community/trashy
+Add home/.config/cheat/cheatsheets/community/tree
+Add home/.config/cheat/cheatsheets/community/truncate
+Add home/.config/cheat/cheatsheets/community/udisksctl
+Add home/.config/cheat/cheatsheets/community/ulimit
+Add home/.config/cheat/cheatsheets/community/uname
+Add home/.config/cheat/cheatsheets/community/uniq
+Add home/.config/cheat/cheatsheets/community/unzip
+Add home/.config/cheat/cheatsheets/community/uptime
+Add home/.config/cheat/cheatsheets/community/urpm
+Add home/.config/cheat/cheatsheets/community/usermod
+Add home/.config/cheat/cheatsheets/community/vagrant
+Add home/.config/cheat/cheatsheets/community/vim
+Add home/.config/cheat/cheatsheets/community/vim-plugins/vim-fzf
+Add home/.config/cheat/cheatsheets/community/vim-plugins/vim-goyo
+Add home/.config/cheat/cheatsheets/community/vim-plugins/vim-limelight
+Add home/.config/cheat/cheatsheets/community/vim-plugins/vim-markdown
+Add home/.config/cheat/cheatsheets/community/virtualenv
+Add home/.config/cheat/cheatsheets/community/wc
+Add home/.config/cheat/cheatsheets/community/weechat
+Add home/.config/cheat/cheatsheets/community/wget
+Add home/.config/cheat/cheatsheets/community/wmctrl
+Add home/.config/cheat/cheatsheets/community/woeusb
+Add home/.config/cheat/cheatsheets/community/xargs
+Add home/.config/cheat/cheatsheets/community/xdotool
+Add home/.config/cheat/cheatsheets/community/xmlto
+Add home/.config/cheat/cheatsheets/community/xrandr
+Add home/.config/cheat/cheatsheets/community/xxd
+Add home/.config/cheat/cheatsheets/community/yaourt
+Add home/.config/cheat/cheatsheets/community/youtube-dl
+Add home/.config/cheat/cheatsheets/community/yum
+Add home/.config/cheat/cheatsheets/community/z
+Add home/.config/cheat/cheatsheets/community/zfs
+Add home/.config/cheat/cheatsheets/community/zip
+Add home/.config/cheat/cheatsheets/community/zoneadm
+Add home/.config/cheat/cheatsheets/community/zsh
+Add home/.config/cheat/cheatsheets/personal/.keep
+Add home/.config/cheat/conf.yml</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 24 commits in
                                         <span class="repo">PowerSchill/Obsidian_Personal_System</span>
                                     </div>
@@ -1165,87 +1525,6 @@ Affected files:
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5fb8240</div>
-                                        <div class="message">docs: backups vault content - 2024-09-15 18:18
-
-Total files changed: 1
-
-Affected files:
-.obsidian/workspace.json</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bc53f5a</div>
-                                        <div class="message">docs: backups vault content - 2024-09-15 17:48
-
-Total files changed: 7
-
-Affected files:
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-00-09 System/02 Journal/02.01 Daily/2024/09/2024-09-15.md
-40-49 Technology/41 Software/41.33 Visual Studio Code/41.33 Old VSCode Settings.md
-40-49 Technology/41 Software/41.33 Visual Studio Code/41.33 Visual Studio Code.md
-40-49 Technology/41 Software/41.33 Visual Studio Code/Default.code-profile.json
-River.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a54dbd4</div>
-                                        <div class="message">docs: backups vault content - 2024-09-15 17:18
-
-Total files changed: 1
-
-Affected files:
-.obsidian/workspace.json</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1301,7 +1580,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Sept 2024, 14:07:51 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Sept 2024, 15:06:48 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
