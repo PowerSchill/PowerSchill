@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2039" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2005" class="">
     <defs>
         <style/>
     </defs>
@@ -41,9 +41,9 @@
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5584 Commits
+                            5604 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -635,6 +635,127 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6224734</div>
+                                        <div class="message">docs: backups vault content - 2024-12-15 14:37
+
+Total files changed: 5
+
+Affected files:
+.obsidian/plugins/readwise-official/data.json
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+00-09 System/02 Journal/02.01 Daily/2024/12/2024-12-14.md
+00-09 System/02 Journal/02.01 Daily/2024/12/2024-12-15.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 8 commits in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#42adc74</div>
+                                        <div class="message">docs: backups vault content - 2024-12-15 14:07
+
+Total files changed: 1
+
+Affected files:
+.obsidian/workspace.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#38a7ce1</div>
+                                        <div class="message">docs: backups vault content - 2024-12-14 20:45
+
+Total files changed: 1
+
+Affected files:
+00-09 System/02 Journal/02.01 Daily/2024/12/2024-12-14.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#785b7af</div>
+                                        <div class="message">docs: backups vault content - 2024-12-14 20:15
+
+Total files changed: 2
+
+Affected files:
+.obsidian/workspace.json
+00-09 System/02 Journal/02.01 Daily/2024/12/2024-12-14.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db4379b</div>
+                                        <div class="message">docs: backups vault content - 2024-12-14 13:22
+
+Total files changed: 1
+
+Affected files:
+.obsidian/plugins/obsidian-raindrop-highlights/data.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b57840e</div>
+                                        <div class="message">docs: backups vault content - 2024-12-14 07:09
+
+Total files changed: 3
+
+Affected files:
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+00-09 System/02 Journal/02.01 Daily/2024/12/2024-12-14.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4cfeeda</div>
+                                        <div class="message">docs: backups vault content - 2024-12-13 22:30
+
+Total files changed: 1
+
+Affected files:
+.obsidian/plugins/readwise-official/data.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#47cf5c0</div>
+                                        <div class="message">docs: backups vault content - 2024-12-13 21:59
+
+Total files changed: 2
+
+Affected files:
+.obsidian/plugins/readwise-official/data.json
+00-09 System/02 Journal/02.01 Daily/2024/12/2024-12-13.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fddb899</div>
+                                        <div class="message">docs: backups vault content - 2024-12-13 15:37
+
+Total files changed: 1
+
+Affected files:
+00-09 System/02 Journal/02.01 Daily/2024/12/2024-12-13.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">PowerSchill/Obsidian_Personal_System</span>
                                     </div>
@@ -868,146 +989,6 @@ Affected files:
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/dotfiles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0c5b441</div>
-                                        <div class="message">Add home/.grc/conf.python-logging</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 10 commits in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#67e3aa6</div>
-                                        <div class="message">docs: backups vault content - 2024-12-09 16:44
-
-Total files changed: 1
-
-Affected files:
-.obsidian/plugins/readwise-official/data.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f59fad</div>
-                                        <div class="message">docs: backups vault content - 2024-12-09 16:14
-
-Total files changed: 4
-
-Affected files:
-.obsidian/workspace.json
-00-09 System/02 Journal/02.01 Daily/2024/12/2024-12-09.md
-30-39 Entertainment/35 Podcasts/35.02 Show Notes/The Economics of Everyday Things/The Economics of Everyday Things - 73. Used Bookstores.md
-30-39 Entertainment/35 Podcasts/35.02 Show Notes/The Pragmatic Engineer/The Pragmatic Engineer - Efficient scaleups in 2024 vs 2021 Sourcegraph (with CEO &amp; Co-founder Quinn Slack).md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e8f84d0</div>
-                                        <div class="message">docs: backups vault content - 2024-12-09 07:23
-
-Total files changed: 1
-
-Affected files:
-00-09 System/02 Journal/02.01 Daily/2024/12/2024-12-09.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe037fd</div>
-                                        <div class="message">docs: backups vault content - 2024-12-09 06:53
-
-Total files changed: 3
-
-Affected files:
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-00-09 System/02 Journal/02.01 Daily/2024/12/2024-12-09.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#11fd1b2</div>
-                                        <div class="message">docs: backups vault content - 2024-12-08 18:55
-
-Total files changed: 4
-
-Affected files:
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-00-09 System/02 Journal/02.01 Daily/2024/12/2024-12-08.md
-00-09 System/02 Journal/02.02 Weekly/2024/2024-W50.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#45b67e5</div>
-                                        <div class="message">docs: backups vault content - 2024-12-08 15:29
-
-Total files changed: 3
-
-Affected files:
-.obsidian/plugins/readwise-official/data.json
-.obsidian/workspace.json
-00-09 System/01 Inbox/01.01 Readwise/Article/12 Burning Questions We Have After the Severance Season 2 Trailer by Mark.Schill's favorite articles on Inoreader.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c6bd364</div>
-                                        <div class="message">docs: backups vault content - 2024-12-08 11:37
-
-Total files changed: 1
-
-Affected files:
-.obsidian/plugins/obsidian-raindrop-highlights/data.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a2ba99</div>
-                                        <div class="message">docs: backups vault content - 2024-12-08 07:33
-
-Total files changed: 3
-
-Affected files:
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-00-09 System/02 Journal/02.01 Daily/2024/12/2024-12-08.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd790ce</div>
-                                        <div class="message">docs: backups vault content - 2024-12-07 21:21
-
-Total files changed: 1
-
-Affected files:
-00-09 System/02 Journal/02.01 Daily/2024/12/2024-12-07.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#674237c</div>
-                                        <div class="message">docs: backups vault content - 2024-12-07 19:50
-
-Total files changed: 3
-
-Affected files:
-.obsidian/plugins/readwise-official/data.json
-.obsidian/workspace.json
-00-09 System/01 Inbox/01.01 Readwise/Article/The Yule Playlist by David Sparks.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1063,7 +1044,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Dec 2024, 14:06:39 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Dec 2024, 15:07:50 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
