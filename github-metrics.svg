@@ -471,7 +471,7 @@
                                         <span>starred Oct 07 2024</span>
                                     </div>
                                 </div>
-                                <div class="field description">Deliver Go binaries as fast and easily as possible</div>
+                                <div class="field description">Release engineering, simplified</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -873,7 +873,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Dec 2024, 08:14:35 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Dec 2024, 09:08:03 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
