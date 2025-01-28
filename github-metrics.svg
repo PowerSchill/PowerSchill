@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1539" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1772" class="">
     <defs>
         <style/>
     </defs>
@@ -635,6 +635,172 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 15 commits in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1305a3f</div>
+                                        <div class="message">docs: backups vault content - 2025-01-27 17:40
+
+Total files changed: 1
+
+Affected files:
+.obsidian/workspace.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c20722</div>
+                                        <div class="message">docs: backups vault content - 2025-01-25 19:42
+
+Total files changed: 1
+
+Affected files:
+00-09 System/02 Journal/02.01 Daily/2025/01/2025-01-25.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#45fb08a</div>
+                                        <div class="message">docs: backups vault content - 2025-01-25 19:12
+
+Total files changed: 1
+
+Affected files:
+00-09 System/02 Journal/02.01 Daily/2025/01/2025-01-25.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b0f38d</div>
+                                        <div class="message">docs: backups vault content - 2025-01-25 18:42
+
+Total files changed: 1
+
+Affected files:
+00-09 System/02 Journal/02.01 Daily/2025/01/2025-01-25.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#545f029</div>
+                                        <div class="message">docs: backups vault content - 2025-01-25 15:25
+
+Total files changed: 1
+
+Affected files:
+00-09 System/02 Journal/02.01 Daily/2025/01/2025-01-25.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c37631</div>
+                                        <div class="message">docs: backups vault content - 2025-01-25 13:54
+
+Total files changed: 1
+
+Affected files:
+00-09 System/02 Journal/02.01 Daily/2025/01/2025-01-25.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3ea7b0d</div>
+                                        <div class="message">docs: backups vault content - 2025-01-25 13:24
+
+Total files changed: 3
+
+Affected files:
+.obsidian/workspace.json
+00-09 System/02 Journal/02.01 Daily/2025/01/2025-01-25.md
+30-39 Entertainment/35 Podcasts/35.02 Show Notes/The Daily/The Daily - Trump 2.0 Bans, Purges and Retribution.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#445a1e2</div>
+                                        <div class="message">docs: backups vault content - 2025-01-25 09:33
+
+Total files changed: 1
+
+Affected files:
+.obsidian/plugins/readwise-official/data.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f545f82</div>
+                                        <div class="message">docs: backups vault content - 2025-01-25 06:44
+
+Total files changed: 3
+
+Affected files:
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+00-09 System/02 Journal/02.01 Daily/2025/01/2025-01-25.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f9cf74c</div>
+                                        <div class="message">docs: backups vault content - 2025-01-24 20:39
+
+Total files changed: 3
+
+Affected files:
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+00-09 System/02 Journal/02.01 Daily/2025/01/2025-01-24.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#54f3703</div>
+                                        <div class="message">docs: backups vault content - 2025-01-24 20:09
+
+Total files changed: 2
+
+Affected files:
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad1b4bf</div>
+                                        <div class="message">docs: backups vault content - 2025-01-24 08:41
+
+Total files changed: 4
+
+Affected files:
+.obsidian/plugins/readwise-official/data.json
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+00-09 System/02 Journal/02.01 Daily/2025/01/2025-01-24.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e7644f3</div>
+                                        <div class="message">docs: backups vault content - 2025-01-23 22:34
+
+Total files changed: 1
+
+Affected files:
+00-09 System/02 Journal/02.01 Daily/2025/01/2025-01-23.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b53e4a7</div>
+                                        <div class="message">docs: backups vault content - 2025-01-23 15:15
+
+Total files changed: 6
+
+Affected files:
+.obsidian/plugins/readwise-official/data.json
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+00-09 System/02 Journal/02.01 Daily/2025/01/2025-01-22.md
+00-09 System/02 Journal/02.01 Daily/2025/01/2025-01-23.md
+30-39 Entertainment/35 Podcasts/35.02 Show Notes/The Daily/The Daily - Trump Plans to Abandon Clean Energy. Can He Do It?.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7d2f28a</div>
+                                        <div class="message">docs: backups vault content - 2025-01-23 14:45
+
+Total files changed: 1
+
+Affected files:
+.obsidian/workspace.json</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">PowerSchill/ATM10ServerFiles</span>
                                     </div>
@@ -706,34 +872,6 @@ Affected files:
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#65f4a90</div>
-                                        <div class="message">docs: backups vault content - 2025-01-22 16:29
-
-Total files changed: 4
-
-Affected files:
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-00-09 System/02 Journal/02.01 Daily/2025/01/2025-01-22.md
-30-39 Entertainment/35 Podcasts/35.02 Show Notes/The 404 Media Podcast/The 404 Media Podcast - TikTok and the Tech Oligarchy.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -789,7 +927,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jan 2025, 01:09:48 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jan 2025, 02:07:44 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
