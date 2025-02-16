@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            6262 Commits
+                            6264 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -642,6 +642,40 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#eed9de9</div>
+                                        <div class="message">docs: backups vault content - 2025-02-16 16:07
+
+Total files changed: 10
+
+Affected files:
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+10-19 Personal/11 Health/11.14 Dental Care/11.14 Dental Care.md
+10-19 Personal/11 Health/11.15 Medical &amp; Health Records/11.15 Medical &amp; Health Records.md
+10-19 Personal/11 Health/11.16 Nutrition &amp; Wellness Records/11.16 Nutrition &amp; Wellness Records.md
+10-19 Personal/11 Health/11.17 DNA &amp; Ancestry/11.17 DNA &amp; Ancestry.md
+10-19 Personal/11 Health/11.18 Mental &amp; Emotional Wellness/11.18 Mental &amp; Emotional Wellness.md
+10-19 Personal/11 Health/11.19 Sleep &amp; Recovery/11.19 Sleep &amp; Recovery.md
+10-19 Personal/11 Health/11.20 Health Insurance &amp; Expenses/11.20 Health Insurance &amp; Expenses.md
+10-19 Personal/11 Health/Untitled/Untitled.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#0535770</div>
                                         <div class="message">docs: backups vault content - 2025-02-16 15:36
 
@@ -748,32 +782,6 @@ Affected files:
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e182ec2</div>
-                                        <div class="message">docs: backups vault content - 2025-02-15 20:21
-
-Total files changed: 2
-
-Affected files:
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -829,7 +837,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Feb 2025, 16:07:00 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Feb 2025, 17:06:43 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
