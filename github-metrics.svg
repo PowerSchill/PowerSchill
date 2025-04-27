@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1867" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1650" class="">
     <defs>
         <style/>
     </defs>
@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -646,6 +646,81 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3faea04</div>
+                                        <div class="message">docs: backups vault content - 2025-04-26 11:13
+
+Total files changed: 1
+
+Affected files:
+00-09 System/02 Journal/02.01 Daily/2025/04/2025-04-26.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e57a1c</div>
+                                        <div class="message">docs: backups vault content - 2025-04-26 10:41
+
+Total files changed: 2
+
+Affected files:
+.obsidian/workspace.json
+00-09 System/02 Journal/02.01 Daily/2025/04/2025-04-26.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3aa6d4a</div>
+                                        <div class="message">docs: backups vault content - 2025-04-26 10:09
+
+Total files changed: 1
+
+Affected files:
+00-09 System/02 Journal/02.01 Daily/2025/04/2025-04-26.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#daef629</div>
+                                        <div class="message">docs: backups vault content - 2025-04-26 07:30
+
+Total files changed: 3
+
+Affected files:
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+00-09 System/02 Journal/02.01 Daily/2025/04/2025-04-26.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/dotfiles</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6df1842</div>
+                                        <div class="message">chore: updates packages</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">PowerSchill/Obsidian_Personal_System</span>
                                     </div>
@@ -728,219 +803,6 @@ Affected files:
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#75fcc06</div>
-                                        <div class="message">docs: backups vault content - 2025-04-23 17:00
-
-Total files changed: 3
-
-Affected files:
-.obsidian/plugins/obsidian-raindrop-highlights/data.json
-.obsidian/workspace.json
-00-09 System/01 Inbox/01.03 Raindrop/Personal/40-49 Technology/41.04 Software Bookmarks/Welcome — PopClip.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 17 commits in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#426b878</div>
-                                        <div class="message">docs: backups vault content - 2025-04-23 08:01
-
-Total files changed: 4
-
-Affected files:
-.obsidian/plugins/readwise-official/data.json
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-00-09 System/02 Journal/02.01 Daily/2025/04/2025-04-23.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0d4e910</div>
-                                        <div class="message">docs: backups vault content - 2025-04-22 21:01
-
-Total files changed: 1
-
-Affected files:
-00-09 System/02 Journal/02.01 Daily/2025/04/2025-04-22.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1b7992</div>
-                                        <div class="message">docs: backups vault content - 2025-04-22 20:29
-
-Total files changed: 2
-
-Affected files:
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f969ce3</div>
-                                        <div class="message">docs: backups vault content - 2025-04-22 19:57
-
-Total files changed: 1
-
-Affected files:
-00-09 System/02 Journal/02.01 Daily/2025/04/2025-04-22.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f76ae1c</div>
-                                        <div class="message">docs: backups vault content - 2025-04-22 18:31
-
-Total files changed: 3
-
-Affected files:
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-00-09 System/02 Journal/02.01 Daily/2025/04/2025-04-22.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b63775</div>
-                                        <div class="message">docs: backups vault content - 2025-04-22 17:27
-
-Total files changed: 1
-
-Affected files:
-00-09 System/02 Journal/02.01 Daily/2025/04/2025-04-22.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d5bcbfe</div>
-                                        <div class="message">docs: backups vault content - 2025-04-22 16:22
-
-Total files changed: 3
-
-Affected files:
-.obsidian/workspace.json
-00-09 System/02 Journal/02.01 Daily/2025/04/2025-04-22.md
-30-39 Entertainment/35 Podcasts/35.02 Show Notes/The Daily/The Daily - How Pope Francis Changed the Catholic Church.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#04a6eba</div>
-                                        <div class="message">docs: backups vault content - 2025-04-22 08:27
-
-Total files changed: 4
-
-Affected files:
-.obsidian/plugins/readwise-official/data.json
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-00-09 System/02 Journal/02.01 Daily/2025/04/2025-04-22.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3b44ff6</div>
-                                        <div class="message">docs: backups vault content - 2025-04-21 21:08
-
-Total files changed: 2
-
-Affected files:
-.obsidian/plugins/recent-files-obsidian/data.json
-00-09 System/02 Journal/02.01 Daily/2025/04/2025-04-21.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b01ef56</div>
-                                        <div class="message">docs: backups vault content - 2025-04-21 19:01
-
-Total files changed: 1
-
-Affected files:
-00-09 System/02 Journal/02.01 Daily/2025/04/2025-04-21.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a1ceb7</div>
-                                        <div class="message">docs: backups vault content - 2025-04-21 18:29
-
-Total files changed: 1
-
-Affected files:
-00-09 System/02 Journal/02.01 Daily/2025/04/2025-04-21.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2660da0</div>
-                                        <div class="message">docs: backups vault content - 2025-04-21 17:57
-
-Total files changed: 1
-
-Affected files:
-00-09 System/02 Journal/02.01 Daily/2025/04/2025-04-21.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8fef6b5</div>
-                                        <div class="message">docs: backups vault content - 2025-04-21 16:53
-
-Total files changed: 2
-
-Affected files:
-.obsidian/workspace.json
-00-09 System/02 Journal/02.01 Daily/2025/04/2025-04-21.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d7dbc2c</div>
-                                        <div class="message">docs: backups vault content - 2025-04-21 16:15
-
-Total files changed: 1
-
-Affected files:
-.obsidian/plugins/readwise-official/data.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#be183d2</div>
-                                        <div class="message">docs: backups vault content - 2025-04-21 09:36
-
-Total files changed: 5
-
-Affected files:
-.obsidian/plugins/readwise-official/data.json
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-00-09 System/02 Journal/02.01 Daily/2025/04/2025-04-21.md
-30-39 Entertainment/35 Podcasts/35.02 Show Notes/The Daily/The Daily - The Era of Student Loan Forgiveness Is Officially Over.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3b210a6</div>
-                                        <div class="message">docs: backups vault content - 2025-04-21 06:33
-
-Total files changed: 1
-
-Affected files:
-.obsidian/plugins/readwise-official/data.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fb36c64</div>
-                                        <div class="message">docs: backups vault content - 2025-04-20 21:23
-
-Total files changed: 1
-
-Affected files:
-00-09 System/02 Journal/02.01 Daily/2025/04/2025-04-20.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -996,7 +858,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Apr 2025, 19:07:22 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Apr 2025, 20:36:46 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
