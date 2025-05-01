@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1600" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1617" class="">
     <defs>
         <style/>
     </defs>
@@ -646,6 +646,57 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6c081e0</div>
+                                        <div class="message">docs: backups vault content - 2025-04-30 20:48
+
+Total files changed: 1
+
+Affected files:
+00-09 System/02 Journal/02.01 Daily/2025/04/2025-04-30.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d67d6ba</div>
+                                        <div class="message">docs: backups vault content - 2025-04-30 18:40
+
+Total files changed: 18
+
+Affected files:
+.obsidian/plugins/note-toolbar/data.json
+.obsidian/plugins/note-toolbar/main.js
+.obsidian/plugins/note-toolbar/manifest.json
+.obsidian/plugins/note-toolbar/styles.css
+.obsidian/plugins/obsidian-git/main.js
+.obsidian/plugins/obsidian-git/manifest.json
+.obsidian/plugins/obsidian-git/styles.css
+.obsidian/plugins/obsidian-icon-folder/data.json
+.obsidian/plugins/readwise-official/data.json
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/vault-stats.json
+.obsidian/workspace.json
+00-09 System/02 Journal/02.01 Daily/2025/04/2025-04-27.md
+00-09 System/02 Journal/02.01 Daily/2025/04/2025-04-28.md
+00-09 System/02 Journal/02.01 Daily/2025/04/2025-04-29.md
+00-09 System/02 Journal/02.01 Daily/2025/04/2025-04-30.md
+30-39 Entertainment/35 Podcasts/35.02 Show Notes/The Daily/The Daily - The Housing Market Has New Rules. Realtors Are Evading Them..md
+_0-_9 System Workshop/_0-_9 System Workshop.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">PowerSchill/Obsidian_Personal_System</span>
                                     </div>
@@ -755,94 +806,6 @@ Old Index.md</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#79afc0d</div>
-                                        <div class="message">docs: backups vault content - 2025-04-27 16:05
-
-Total files changed: 64
-
-Affected files:
-.obsidian/appearance.json
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-00-09 System/05 Templates/05.01 Obsidian Templates/Johnny Decimal Category.md
-00-09 System/05 Templates/05.01 Obsidian Templates/Johnny Decimal ID.md
-00-09 System/05 Templates/05.02 Obsidian File Classes/JD.ID.md
-10-19 Personal/11 Health/11.11 Medications &amp; Supplements/11.11 Medications &amp; Supplements.md
-10-19 Personal/11 Health/11.12 First Aid &amp; Emergency/11.12 First Aid &amp; Emergency.md
-10-19 Personal/11 Health/11.13 Vision &amp; Eyewear/11.13 Vision &amp; Eyewear.md
-10-19 Personal/11 Health/11.14 Dental Care/11.14 Dental Care.md
-10-19 Personal/11 Health/11.15 Medical &amp; Health Records/11.15 Medical &amp; Health Records.md
-10-19 Personal/11 Health/11.16 Nutrition &amp; Wellness Records/11.16 Nutrition &amp; Wellness Records.md
-10-19 Personal/11 Health/11.17 DNA &amp; Ancestry/11.17 DNA &amp; Ancestry.md
-10-19 Personal/11 Health/11.18 Mental &amp; Emotional Wellness/11.18 Mental &amp; Emotional Wellness.md
-10-19 Personal/11 Health/11.19 Sleep &amp; Recovery/11.19 Sleep &amp; Recovery.md
-10-19 Personal/11 Health/11.20 Health Insurance &amp; Expenses/11.20 Health Insurance &amp; Expenses.md
-10-19 Personal/11 🙋 Me &amp; other living things/11 🙋 Me &amp; other living things.md
-10-19 Personal/11 🙋 Me &amp; other living things/11.00 ■ System management/11.00 ■ System management.md
-10-19 Personal/11 🙋 Me &amp; other living things/11.01 Inbox 📥/11.01 Inbox 📥.md
-10-19 Personal/11 🙋 Me &amp; other living things/11.09 Archive 📦/11.09 Archive 📦.md
-10-19 Personal/11 🙋 Me &amp; other living things/11.20 ■ Physical health &amp; wellbeing 🫀/11.20 ■ Physical health &amp; wellbeing 🫀.md
-10-19 Personal/11 🙋 Me &amp; other living things/11.21 Health insurance &amp; claims/11.21 Health insurance &amp; claims.md
-10-19 Personal/11 🙋 Me &amp; other living things/11.22 Health records &amp; registrations/11.22 Health records &amp; registrations.md
-10-19 Personal/11 🙋 Me &amp; other living things/11.23 Primary care/11.23 Primary care.md
-10-19 Personal/11 🙋 Me &amp; other living things/11.27 Fitness, nutrition, sleep, &amp; other pro-active wellbeing/11.27 Fitness, nutrition, sleep, &amp; other pro-active wellbeing.md
-10-19 Personal/11 🙋 Me &amp; other living things/11.27 Fitness, nutrition, sleep, &amp; other pro-active wellbeing/NutritionECW 2024-06-07.md
-10-19 Personal/11 🙋 Me &amp; other living things/11.27 Fitness, nutrition, sleep, &amp; other pro-active wellbeing/NutritionECW 2024-07-08.md
-10-19 Personal/12 People/12.00 Index/12.00 Index.md
-10-19 Personal/12 People/12.01 Inbox/12.01 Inbox.md
-10-19 Personal/12 People/12.02 Notes/12.02 Notes.md
-10-19 Personal/12 People/12.03 Checklists/12.03 Checklists.md
-10-19 Personal/12 People/12.04 Bookmarks/12.04 Bookmarks.md
-10-19 Personal/12 People/12.05 Templates/12.05 Templates.md
-10-19 Personal/12 People/12.08 Someday/12.08 Someday.md
-10-19 Personal/12 People/12.09 Archive/12.09 Archive.md
-10-19 Personal/12 People/12.11 Mom/12.11 Mom.md
-10-19 Personal/12 People/12.14 Henry/12.14 Henry.md
-10-19 Personal/12 🏡 Where I live &amp; how I get around/12 🏡 Where I live &amp; how I get around.md
-10-19 Personal/13 Places/13.00 Inbox/13.00 Inbox.md
-10-19 Personal/13 Places/13.01 Homes/13.01 Homes.md
-10-19 Personal/13 Places/13.01 Homes/Home.md
-10-19 Personal/13 💰 Money earned, saved, owed, &amp; spent/13 💰 Money earned, saved, owed, &amp; spent.md
-10-19 Personal/14 Events/14.00 Index/14.00 Index.md
-10-19 Personal/14 Events/14.01 Inbox/14.01 Inbox.md
-10-19 Personal/14 Events/14.02 Notes/14.02 Notes.md
-10-19 Personal/14 Events/14.04 Bookmarks/14.04 Bookmarks.md
-10-19 Personal/14 Events/14.05 Templates/14.05 Templates.md
-10-19 Personal/14 Events/14.09 Archive/14.09 Archive.md
-10-19 Personal/14 💻 My online life/14 💻 My online life.md
-10-19 Personal/15 🎭 Travel, events, &amp; entertainment/15 🎭 Travel, events, &amp; entertainment.md
-10-19 Personal/15 🎭 Travel, events, &amp; entertainment/15.01 Inbox 📥/15.01 Inbox 📥.md
-10-19 Personal/15 🎭 Travel, events, &amp; entertainment/15.01 Inbox 📥/A Cappella Books.md
-10-19 Personal/15 🎭 Travel, events, &amp; entertainment/15.01 Inbox 📥/Amealco Mexican Kitchen.md
-10-19 Personal/15 🎭 Travel, events, &amp; entertainment/15.01 Inbox 📥/Atlanta History Center.md
-10-19 Personal/15 🎭 Travel, events, &amp; entertainment/15.01 Inbox 📥/Blue Heron Nature Preserve.md
-10-19 Personal/15 🎭 Travel, events, &amp; entertainment/15.01 Inbox 📥/Blue India.md
-10-19 Personal/15 🎭 Travel, events, &amp; entertainment/15.01 Inbox 📥/Cloudland Canyon State Park.md
-10-19 Personal/15 🎭 Travel, events, &amp; entertainment/15.01 Inbox 📥/El Viñedo Local.md
-10-19 Personal/15 🎭 Travel, events, &amp; entertainment/15.01 Inbox 📥/Mason Mill Park.md
-10-19 Personal/15 🎭 Travel, events, &amp; entertainment/15.01 Inbox 📥/Piedmont Park.md
-New_index.md
-_0-_9 System Workshop/11 🙋 Me &amp; other living things/11.24 Eyes, ears, &amp; teeth/11.24 Eyes, ears, &amp; teeth.md
-_0-_9 System Workshop/11 🙋 Me &amp; other living things/11.26 Physical therapy/11.26 Physical therapy.md
-_0-_9 System Workshop/11 🙋 Me &amp; other living things/11.31 Psychologist, psychiatrist, &amp; counselling/11.31 Psychologist, psychiatrist, &amp; counselling.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -898,7 +861,7 @@ _0-_9 System Workshop/11 🙋 Me &amp; other living things/11.31 Psychologist, p
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 May 2025, 00:12:33 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 May 2025, 01:09:08 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
