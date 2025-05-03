@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            6906 Commits
+                            6910 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -653,6 +653,64 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#b6f584c</div>
+                                        <div class="message">docs: backups vault content - 2025-05-03 16:47
+
+Total files changed: 6
+
+Affected files:
+.obsidian/plugins/note-toolbar/data.json
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/vault-stats.json
+.obsidian/workspace.json
+10-19 Personal/11 🙋 Me &amp; other living things/11.00 ■ System management/11.00 ■ System management.md
+10-19 Personal/12 🏡 Where I live &amp; how I get around/12.00 ■ System Management/12.00 ■ System Management.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ec28e3b</div>
+                                        <div class="message">docs: backups vault content - 2025-05-03 16:17
+
+Total files changed: 4
+
+Affected files:
+.obsidian/community-plugins.json
+.obsidian/plugins/paste-link/main.js
+.obsidian/plugins/paste-link/manifest.json
+.obsidian/plugins/paste-link/styles.css</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#c46beb8</div>
                                         <div class="message">docs: backups vault content - 2025-05-03 14:47
 
@@ -731,94 +789,6 @@ Affected files:
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#40055dc</div>
-                                        <div class="message">docs: backups vault content - 2025-05-03 10:46
-
-Total files changed: 7
-
-Affected files:
-.obsidian/plugins/note-toolbar/data.json
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/vault-stats.json
-.obsidian/workspace.json
-10-19 Personal/11 🙋 Me &amp; other living things/11 🙋 Me &amp; other living things.md
-10-19 Personal/12 🏡 Where I live &amp; how I get around/12.11 Official documents/12.11 Official documents.md
-10-19 Personal/12 🏡 Where I live &amp; how I get around/12.16 Appliances, tools, &amp; gadgets/12.16 Appliances, tools, &amp; gadgets.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PowerSchill/Obsidian_Personal_System</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#692dfa6</div>
-                                        <div class="message">docs: backups vault content - 2025-05-03 10:16
-
-Total files changed: 33
-
-Affected files:
-.obsidian/community-plugins.json
-.obsidian/plugins/actions-uri/main.js
-.obsidian/plugins/actions-uri/manifest.json
-.obsidian/plugins/actions-uri/styles.css
-.obsidian/plugins/metadata-menu/main.js
-.obsidian/plugins/note-toolbar/data.json
-.obsidian/plugins/note-toolbar/main.js
-.obsidian/plugins/note-toolbar/manifest.json
-.obsidian/plugins/note-toolbar/styles.css
-.obsidian/plugins/obsidian-meta-bind-plugin/data.json
-.obsidian/plugins/obsidian-meta-bind-plugin/main.js
-.obsidian/plugins/obsidian-meta-bind-plugin/manifest.json
-.obsidian/plugins/obsidian-meta-bind-plugin/styles.css
-.obsidian/plugins/obsidian42-brat/main.js
-.obsidian/plugins/obsidian42-brat/manifest.json
-.obsidian/plugins/readwise-official/data.json
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/vault-stats.json
-.obsidian/workspace.json
-00-09 System/01 Inbox/01.01 Readwise/Article/Pareto Principle - Wikipedia by wikipedia.org.md
-00-09 System/02 Journal/02.01 Daily/2025/05/2025-05-02.md
-00-09 System/02 Journal/02.01 Daily/2025/05/2025-05-03.md
-00-09 System/05 Templates/05.01 Obsidian Templates/Johnny Decimal Category.md
-10-19 Personal/11 🙋 Me &amp; other living things/11.27 Fitness and Nutrition/11.27 Fitness and Nutrition.md
-10-19 Personal/11 🙋 Me &amp; other living things/11.27 Fitness and Nutrition/NutritionECW 2024-06-07.md
-10-19 Personal/11 🙋 Me &amp; other living things/11.27 Fitness and Nutrition/NutritionECW 2024-07-08.md
-10-19 Personal/12 🏡 Where I live &amp; how I get around/12 🏡 Where I live &amp; how I get around.md
-10-19 Personal/12 🏡 Where I live &amp; how I get around/12.00 ■ System Management/12.00 ■ System Management.md
-10-19 Personal/12 🏡 Where I live &amp; how I get around/12.01 Inbox 📥/12.01 Inbox 📥.md
-10-19 Personal/12 🏡 Where I live &amp; how I get around/12.09 Archive 📦/12.09 Archive 📦.md
-10-19 Personal/12 🏡 Where I live &amp; how I get around/12.10 ■ Home records 📄/12.10 ■ Home records 📄.md
-10-19 Personal/12 🏡 Where I live &amp; how I get around/12.16 Appliances, tools, &amp; gadgets/12.16 Appliances, tools, &amp; gadgets.md
-_0-_9 System Workshop/13 💰 Money earned, saved, owed, &amp; spent/13.41 Purchase receipts/13.41 Purchase receipts.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -874,7 +844,7 @@ _0-_9 System Workshop/13 💰 Money earned, saved, owed, &amp; spent/13.41 Purch
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 May 2025, 16:08:12 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 May 2025, 17:06:51 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
