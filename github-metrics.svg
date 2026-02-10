@@ -377,7 +377,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Njengah/claude-code-cheat-sheet</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ultimate collection of Claude Code tips, tricks, hacks, and workflows that you can use to master Claude Code in minutes</div>
@@ -653,9 +653,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="7.976277372262774 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="7.974198592650509 329"/>
                                     <text x="60" y="50" dominant-baseline="central">93</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3836</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3837</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -671,9 +671,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.940119760479042 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.938154613466334 329"/>
                                     <text x="60" y="50" dominant-baseline="central">24</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2004</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2005</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
@@ -692,7 +692,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Feb 2026, 20:43:11 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Feb 2026, 22:12:36 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
