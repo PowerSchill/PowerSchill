@@ -264,14 +264,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="414.78593530865294" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="414.78593530865294" y="0" width="16.934835792183826" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="431.72077110083677" y="0" width="10.059477596301246" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="441.780248697138" y="0" width="6.565168429787466" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="448.34541712692544" y="0" width="4.201200728635482" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="452.54661785556095" y="0" width="3.563607068040522" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="456.1102249236015" y="0" width="2.590417353376694" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="458.70064227697816" y="0" width="1.2993577230217952" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="414.70240329143064" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="414.70240329143064" y="0" width="16.93142535592109" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="431.6338286473517" y="0" width="10.057451759877463" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="441.6912804072292" y="0" width="6.563846297777526" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="448.2551267050067" y="0" width="4.200354666265123" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="452.45548137127184" y="0" width="3.56288940801003" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="456.01837077928184" y="0" width="2.6825331699529245" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="458.7009039492348" y="0" width="1.2990960507651972" height="8" fill="#701516"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -377,7 +377,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>green-dalii/obsidian-llm-wiki</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Karpathy's LLM Wiki implementation plugin for Obsidian - turns notes and PDFs into a linked, LLM-powered knowledge base with entity pages, concept pages, graph-powered Q&amp;A, and local-first privacy.</div>
@@ -698,7 +698,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Aug 2026, 11:25:05 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Aug 2026, 12:22:22 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
